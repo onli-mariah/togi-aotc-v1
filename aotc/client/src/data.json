@@ -1,0 +1,4277 @@
+{
+  "currentStack": {
+    "LLM & AI Agents": [
+      {
+        "name": "x.ai",
+        "description": "Grok LLM",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "30",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "3",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "OpenAI",
+        "description": "LLM",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "Apple Sub",
+            "nextPayment": "9",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "onlisyn@icloud",
+            "cost": "200",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "12",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "19",
+            "notes": "UNKNOWN ACCOUNT - Ashleigh? ",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "mylogin",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "31",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          },
+          {
+            "account": "naturalspirituality@gmail",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "2025-10-30",
+            "notes": "Need Login info",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Claude",
+        "description": "LLM",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "200",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "13",
+            "notes": "PRO Plan ",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "",
+            "cost": "216",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "21",
+            "notes": "UNKNOWN ACCOUNT ",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Manus.ai",
+        "description": "LLM and AI Agent",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "300",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "15",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Abacus.ai",
+        "description": "Multi LLM",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "10",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "19",
+            "notes": "Re-subscribed",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Anthropic",
+        "description": "LLM",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "MC -6175",
+            "nextPayment": "",
+            "notes": "MAX Plan ",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Genspark AI",
+        "description": "Super Agent",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "240",
+            "billingCycle": "Annual",
+            "payment": "CapOne -5829",
+            "nextPayment": "2026-06-26",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Perplexity AI",
+        "description": "LLM/Browser",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "200",
+            "billingCycle": "Annual",
+            "payment": "MC -6175",
+            "nextPayment": "2026-07-05",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Venice",
+        "description": "LLM Agent",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "18",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "2025-10-16",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      }
+    ],
+    "AI Development & Code": [
+      {
+        "name": "Github",
+        "description": "Code repository ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "48",
+            "billingCycle": "Annual",
+            "payment": "MC -3626",
+            "nextPayment": "2026-05-29",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Vercel - Domains",
+        "description": "Domain manager",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn@icloud",
+            "cost": "140",
+            "billingCycle": "2-Year",
+            "payment": "Disc -8992",
+            "nextPayment": "2027-05-28",
+            "notes": "naturalspirituality.ai",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Vercel - Neon",
+        "description": "Cloud appliaction development",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn@icloud",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "6",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Vercel - Seats",
+        "description": "Team teams for Vercel",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "150",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "7",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Fly.io",
+        "description": "Application deployments - public cloud ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "MC - 2705",
+            "nextPayment": "12",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "MC -6175",
+            "nextPayment": "2025-11-12",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Warp",
+        "description": "Smart Terminal",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "50",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "14",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "CapOne -5829",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "n8n",
+        "description": "Automation workflow builder",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mariah@onli.one",
+            "cost": "24",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "16",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Framer",
+        "description": "Website builder and hosting",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "60",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "18",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Figma",
+        "description": "UX/UI Builder",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "18",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Cursor",
+        "description": "Smart code editor and terminal",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "200",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "19",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Builder.io",
+        "description": "Visual development platform",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "30",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "24",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Resend",
+        "description": "Email API",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "30",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Alex Inc",
+        "description": "XCode AI Coding Assistant",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "Mercury",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "Expired",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Digital Ocean",
+        "description": "Cloud infrastructure",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "Github",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "MC - 3800",
+            "nextPayment": "",
+            "notes": "$200 credit",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Fal AI",
+        "description": "GenAI API's ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Supabase",
+        "description": "Vector storage",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "Github",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "",
+            "nextPayment": "2025-10-08",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          },
+          {
+            "account": "Github",
+            "cost": "25",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "8",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Vercel - Upstash",
+        "description": "Cloud appliaction development",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn@icloud",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "Disc -8992",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Cloudflare",
+        "description": "",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mariah@theonlicorp",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Leap.New",
+        "description": "AI fullstack development",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "60",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "2026-02-08",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "MagicPath",
+        "description": "AI-powered design tool",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "20",
+            "billingCycle": "Monthly",
+            "payment": "CapOne -5829",
+            "nextPayment": "15",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Mimic PC",
+        "description": "Open source AI generation platform",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "124",
+            "billingCycle": "Annual",
+            "payment": "",
+            "nextPayment": "2026-04-16",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Onlook",
+        "description": "Cursor for Designers",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "0",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Same.new",
+        "description": "Application prototyping + website cloning",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "10",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "VectorShift",
+        "description": "API ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "240",
+            "billingCycle": "Annual",
+            "payment": "MC -6175",
+            "nextPayment": "2026-02-21",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Webflow",
+        "description": "Visual website builder",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "dhrylanton@gmail.com",
+            "cost": "$88 + $24",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "2025-11-19",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Mirage",
+        "description": "",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "Not sure which provider is correct",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      }
+    ],
+    "Video & Audio Generation": [
+      {
+        "name": "Higgsfield",
+        "description": "Image/Video Gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "108",
+            "billingCycle": "Annual",
+            "payment": "MC -6175",
+            "nextPayment": "2026-04-29",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "mylogin",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "MC -6175",
+            "nextPayment": "2026-04-29",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "LTX Studio",
+        "description": "Define Motion with Keyframes ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "336",
+            "billingCycle": "Annual",
+            "payment": "UNKNOWN",
+            "nextPayment": "2026-05-18",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Zoom",
+        "description": "Video conferencing",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "doc@theonli",
+            "cost": "95",
+            "billingCycle": "Annual",
+            "payment": "MC - 3800",
+            "nextPayment": "2027-01-14",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Storyblocks",
+        "description": "Stock video and images",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "30",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "1",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Artlist",
+        "description": "Video and image generator",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "",
+            "cost": "39",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "6",
+            "notes": "CANNOT FIND ACCOUNT - Disputed Charge",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Krea.ai",
+        "description": "Image/Video Gen - Illustrated Headshots",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "35",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "7",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "ElevenLabs",
+        "description": "AI Voice Generation",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "22",
+            "billingCycle": "Monthly",
+            "payment": "MC -3626",
+            "nextPayment": "11",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "mylogin",
+            "cost": "5",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "24",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "MotionVFX",
+        "description": "Motion design elements + video editing",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "50",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "11",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Z-Image",
+        "description": "Image and video generator",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "60",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "23",
+            "notes": "Nude yoga girls?",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Flodesk",
+        "description": "Nogen newsletters",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "hello@nogen",
+            "cost": "38",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "24",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Captions.ai",
+        "description": "Talking video generation",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "PYG",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Diffus",
+        "description": "Diffusion image and video generation",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "PYG",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "2025-12-08",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Hedra",
+        "description": "Image Gen - Fighter/Uniform",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Wavespeed",
+        "description": "Video + image gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Arcanalabs.ai",
+        "description": "AI Production Studio - Photo + Video Gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "29",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "2025-10-13",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Hailou AI",
+        "description": "Video gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Heygen Technology",
+        "description": "AI Spokesperson Video Gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "29",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "2025-10-05",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Hume AI",
+        "description": "Realistic Voice AI",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "14",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "2026-02-12",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Loveart AI",
+        "description": "Branding image gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "180",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "2026-07-25",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Luma",
+        "description": "Video Generator",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "30",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "2025-10-30",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Nextdiffusion AI",
+        "description": "TOPLESS image generator",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "150",
+            "billingCycle": "Annual",
+            "payment": "MC -6175",
+            "nextPayment": "2026-04-27",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "NIM AI",
+        "description": "Image generator",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "240",
+            "billingCycle": "Annual",
+            "payment": "MC -6175",
+            "nextPayment": "2026-03-03",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Pixflow",
+        "description": "Motion design, animation + content creation",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Prone AI",
+        "description": "Image + video gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "295",
+            "billingCycle": "Annual",
+            "payment": "",
+            "nextPayment": "2026-04-17",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Recraft",
+        "description": "AI for designers - image gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Runway AI",
+        "description": "Video generation",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "144",
+            "billingCycle": "Annual",
+            "payment": "CapOne -5829",
+            "nextPayment": "2026-10-01",
+            "notes": "Recently used + purchased",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Shakker",
+        "description": "Image and Video gen (uncensored)",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "288",
+            "billingCycle": "Annual",
+            "payment": "MC -6175",
+            "nextPayment": "2026-03-07",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "TopazLabs",
+        "description": "Video + Image gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "50",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "2025-08-13",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Speechelo",
+        "description": "text-to-speech ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "One-time purchase?",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Superultra",
+        "description": "Whisper ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "No payment info available",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      }
+    ],
+    "Design & Creative": [
+      {
+        "name": "Pixelbuddha.net",
+        "description": "Graphic design resources",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "120",
+            "billingCycle": "Annual",
+            "payment": "",
+            "nextPayment": "2026-07-10",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Fing Starter",
+        "description": "Network monitoring security",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "",
+            "cost": "39",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "2",
+            "notes": "CANNOT FIND ACCOUNT - iCloud?",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Adobe",
+        "description": "Design software suite",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "doc@musictray",
+            "cost": "60",
+            "billingCycle": "Monthly",
+            "payment": "MC -3626",
+            "nextPayment": "14",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "DZine",
+        "description": "AI Image + Design ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "60",
+            "billingCycle": "Monthly",
+            "payment": "CashApp",
+            "nextPayment": "2025-10-14",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Magnific Ai",
+        "description": "Image scaler and enhancer",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "40",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "2025-10-12",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Spline",
+        "description": "3D Image Rendering",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mariah@onli.one",
+            "cost": "15",
+            "billingCycle": "Monthly",
+            "payment": "CapOne",
+            "nextPayment": "2025-11-02",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "UX Pilot AI",
+        "description": "UX/UI Design",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "29",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "2025-08-08",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      }
+    ],
+    "Productivity & Operations": [
+      {
+        "name": "Academia",
+        "description": "Academic paper publishing",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "dhrylanton@gmail.com",
+            "cost": "160",
+            "billingCycle": "Annual",
+            "payment": "Disc -8992",
+            "nextPayment": "2026-12-25",
+            "notes": "2-part payments of $80",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Craftdocs",
+        "description": "Document creation and organization",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mariah@theonlicorp",
+            "cost": "180",
+            "billingCycle": "Annual",
+            "payment": "MC -3626",
+            "nextPayment": "2026-07-19",
+            "notes": "Onli Corp ",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "doc@onli",
+            "cost": "0",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "AZC Files",
+            "status": "Unpaid",
+            "isExpiration": true
+          },
+          {
+            "account": "doc@theonli",
+            "cost": "0",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "Onli Corp Workspace account",
+            "status": "Unpaid",
+            "isExpiration": true
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "60",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "2025-10-06",
+            "notes": "N\u00f8gen Dev Office - Not Needed",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Google",
+        "description": "GoogleOne Ultra",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "250",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "1",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "YoutubeTV",
+        "description": "Baseplan plus Redzone",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "106",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "1",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Classmates.com",
+        "description": "High school connections",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "dhrylanton@gmail.com",
+            "cost": "21",
+            "billingCycle": "Quarterly",
+            "payment": "Disc -8992",
+            "nextPayment": "9",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Katalist",
+        "description": "Visual storyboard",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "17",
+            "billingCycle": "Monthly",
+            "payment": "MC -3626",
+            "nextPayment": "10",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "YouTubeTV",
+        "description": "NFL Sunday Ticket",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "40",
+            "billingCycle": "Monthly",
+            "payment": "MC -3626",
+            "nextPayment": "12",
+            "notes": "8 Installments - Last payment on May 12",
+            "status": "Paid",
+            "isExpiration": false
+          },
+          {
+            "account": "mylogin",
+            "cost": "5",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "25",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Optisigns",
+        "description": "Digital signage",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "32",
+            "billingCycle": "Monthly",
+            "payment": "MC -3626",
+            "nextPayment": "14",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Crunchyroll",
+        "description": "Anime streaming <3",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "",
+            "cost": "17",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "20",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Pitch.com",
+        "description": "Presentation software",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "25",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "25",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "PYG CREDITS",
+        "description": "",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "Paid Access Expires",
+            "notes": "",
+            "status": "Paid",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Insmind",
+        "description": "AI Photo Editing",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "PYG",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "PYG",
+            "isExpiration": false
+          }
+        ]
+      },
+      {
+        "name": "Chroniclehq.com",
+        "description": "Smart presentation creator",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn@icloud",
+            "cost": "0",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "2025-10-26",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Limitless",
+        "description": "AI pendant transcriber",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Modelo",
+        "description": "3D Model viewier and editor",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "2025-10-16",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "OpenSign",
+        "description": "Document signing ",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "30",
+            "billingCycle": "Monthly",
+            "payment": "MC - 3800",
+            "nextPayment": "3",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Patreon",
+        "description": "Content creator marketplace",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "24",
+            "billingCycle": "Monthly",
+            "payment": "Apple Pay -3943",
+            "nextPayment": "2025-08-17",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "UNKNOWN",
+        "description": "",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      },
+      {
+        "name": "Storyd AI",
+        "description": "Presenations with templates",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "Unkown",
+            "cost": "",
+            "billingCycle": "Monthly",
+            "payment": "",
+            "nextPayment": "",
+            "notes": "Cannot find active account",
+            "status": "Unpaid",
+            "isExpiration": true
+          }
+        ]
+      }
+    ]
+  },
+  "workflows": [
+    {
+      "name": "AI Content Generation Pipeline",
+      "description": "End-to-end workflow for creating AI-generated visual and video content",
+      "tools": [
+        "Cursor",
+        "Anthropic Claude",
+        "OpenAI",
+        "Krea.ai",
+        "Higgsfield",
+        "LTX Studio",
+        "ElevenLabs"
+      ],
+      "steps": [
+        "Ideate and plan content using Claude/GPT",
+        "Generate images with Krea.ai or Higgsfield",
+        "Create video sequences with LTX Studio",
+        "Add AI voiceover with ElevenLabs",
+        "Code automation scripts in Cursor"
+      ]
+    },
+    {
+      "name": "Full-Stack Development Workflow",
+      "description": "Complete development pipeline from code to deployment",
+      "tools": [
+        "Cursor",
+        "Github",
+        "Warp",
+        "Vercel",
+        "Supabase",
+        "Fly.io"
+      ],
+      "steps": [
+        "Write code in Cursor with AI assistance",
+        "Version control with Github",
+        "Terminal operations in Warp",
+        "Database management with Supabase",
+        "Deploy to Vercel or Fly.io"
+      ]
+    },
+    {
+      "name": "Design & Prototyping Workflow",
+      "description": "From concept to interactive prototype",
+      "tools": [
+        "Adobe",
+        "Builder.io",
+        "MagicPath",
+        "Pixelbuddha",
+        "Spline"
+      ],
+      "steps": [
+        "Design assets in Adobe Creative Cloud",
+        "Source design resources from Pixelbuddha",
+        "Create 3D elements with Spline",
+        "Build interactive prototypes with Builder.io",
+        "AI-powered design iterations with MagicPath"
+      ]
+    },
+    {
+      "name": "Documentation & Knowledge Management",
+      "description": "Organize and share team knowledge",
+      "tools": [
+        "Craftdocs",
+        "Google One Ultra",
+        "Github"
+      ],
+      "steps": [
+        "Create structured docs in Craftdocs",
+        "Store files in Google One Ultra",
+        "Version control documentation in Github",
+        "Share with team via cloud storage"
+      ]
+    }
+  ],
+  "youtube": [
+    {
+      "date": "January 20, 2026",
+      "videoUrl": "https://youtu.be/4PJEl89ImL8",
+      "videoTitle": "Top AI-Agent Projects : Sled, Colloqio, Binary, Notto, Snaply AI, Vellum",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Sled",
+            "rating": "4.5\u2b50",
+            "description": "A voice-first interface for running local coding agents (like Claude Code) from your phone. Allows you to step away from the desk while keeping the agent working.",
+            "businessValue": "Increases developer productivity by enabling 'mobile' supervision of long-running coding tasks.",
+            "githubUrl": "https://github.com/layercodedev/sled",
+            "websiteUrl": "https://sled.layercode.com/",
+            "redFlags": "None"
+          },
+          {
+            "name": "Colloqio",
+            "rating": "4.5\u2b50",
+            "description": "A 100% on-device, private AI companion that runs offline. It remembers conversations and preferences without sending data to the cloud.",
+            "businessValue": "Perfect for privacy-conscious users who need an AI assistant that guarantees data sovereignty.",
+            "githubUrl": "",
+            "websiteUrl": "https://colloqio.app/",
+            "redFlags": "None"
+          },
+          {
+            "name": "Notto",
+            "rating": "4.5\u2b50",
+            "description": "An invisible AI overlay for desktop that allows users to capture notes, dictate text, and chat with AI in any application without context switching.",
+            "businessValue": "Reduces friction in workflows by bringing AI directly into the active context.",
+            "githubUrl": "",
+            "websiteUrl": "https://usenotto.com/",
+            "redFlags": "None"
+          },
+          {
+            "name": "Vellum",
+            "rating": "4.5\u2b50",
+            "description": "An enterprise platform for building, testing, and deploying AI agents and workflows. Provides tools for prompt engineering, evaluation, and version control.",
+            "businessValue": "Critical infrastructure for companies building production-grade AI applications.",
+            "githubUrl": "",
+            "websiteUrl": "https://www.vellum.ai/",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Binary",
+            "rating": "4.0\u2b50",
+            "description": "An AI-powered hiring tool that streamlines the application process for startups. Uses AI to pre-tag and review candidates quickly.",
+            "businessValue": "Potentially speeds up hiring for small teams, but needs evaluation against established ATS solutions.",
+            "githubUrl": "",
+            "websiteUrl": "https://binary.so/",
+            "redFlags": "None"
+          },
+          {
+            "name": "Snaply AI",
+            "rating": "4.0\u2b50",
+            "description": "A privacy-focused macOS tool for on-device voice dictation, real-time grammar fixes, and translation.",
+            "businessValue": "Good for Mac-heavy workflows requiring privacy, but competes with built-in OS features.",
+            "githubUrl": "",
+            "websiteUrl": "https://snaply.ai/",
+            "redFlags": "None"
+          },
+          {
+            "name": "Simpl",
+            "rating": "4.0\u2b50",
+            "description": "A local-first, user-friendly database browser for PostgreSQL. Allows exploring data without writing SQL.",
+            "businessValue": "Great for non-technical team members or quick data checks.",
+            "githubUrl": "",
+            "websiteUrl": "https://www.simpl.sh/",
+            "redFlags": "None"
+          },
+          {
+            "name": "Ekomoira",
+            "rating": "4.0\u2b50",
+            "description": "An MCP server that connects Google Search Console to AI tools like Claude and Cursor, allowing natural language queries about SEO performance.",
+            "businessValue": "Streamlines SEO analysis for developers and marketers using AI workflows.",
+            "githubUrl": "",
+            "websiteUrl": "https://www.ekamoira.com/tools/gsc",
+            "redFlags": "None"
+          },
+          {
+            "name": "Langfinity",
+            "rating": "4.0\u2b50",
+            "description": "Real-time voice translation for meetings and events in 50+ languages.",
+            "businessValue": "Useful for global teams, but needs to be tested for latency and accuracy against competitors.",
+            "githubUrl": "",
+            "websiteUrl": "https://langfinity.ai/",
+            "redFlags": "None"
+          },
+          {
+            "name": "BlocPad",
+            "rating": "4.0\u2b50",
+            "description": "A real-time project management tool combining tasks, wikis, and collaboration in one fast workspace.",
+            "businessValue": "A potential alternative to Jira/Notion for teams wanting speed, but switching costs are high.",
+            "githubUrl": "",
+            "websiteUrl": "https://blocpad.com/",
+            "redFlags": "None"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "January 19, 2026",
+      "videoUrl": "https://www.youtube.com/watch?v=8dXnWk_f77c",
+      "videoTitle": "Claude Code Hooks & Recursive Language Models",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Claude Code (Hooks)",
+            "rating": "5\u2b50",
+            "description": "A major feature update enabling 'self-validating agents' via hooks and slash commands. Allows developers to build specialized, reliable AI coding workflows inside their codebase.",
+            "businessValue": "Enables creation of custom, self-correcting AI coding agents tailored to specific project needs.",
+            "githubUrl": "",
+            "websiteUrl": "https://code.claude.com/docs/en/hooks-guide",
+            "redFlags": "None"
+          },
+          {
+            "name": "OS Ninja",
+            "rating": "4.5\u2b50",
+            "description": "An AI-powered platform to explore and learn open source projects. Features 'Socratic' and 'Feynman' modes to turn complex codebases into interactive learning journeys.",
+            "businessValue": "Accelerates onboarding and understanding of complex open-source libraries for engineering teams.",
+            "githubUrl": "",
+            "websiteUrl": "https://os.ninja",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "RLM",
+            "rating": "4.5\u2b50",
+            "description": "Recursive Language Models: A task-agnostic inference paradigm enabling LMs to handle near-infinite context by recursively calling themselves.",
+            "businessValue": "Potential breakthrough for handling massive context windows efficiently in future AI applications.",
+            "githubUrl": "https://github.com/alexzhang13/rlm",
+            "websiteUrl": "https://alexzhang13.github.io/blog/2025/rlm/",
+            "redFlags": "Research stage"
+          },
+          {
+            "name": "Huobao Drama",
+            "rating": "4\u2b50",
+            "description": "An AI-powered short drama production platform automating script generation, character design, storyboarding, and video composition.",
+            "businessValue": "Streamlines video content creation for marketing and entertainment sectors.",
+            "githubUrl": "https://github.com/chatfire-AI/huobao-drama",
+            "websiteUrl": "",
+            "redFlags": "Niche use case"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "Jan 19, 2026",
+      "videos": [
+        {
+          "title": "Deep Dive: Claude Code Hooks",
+          "link": "https://youtu.be/u5GkG71PkR0?si=rPIFDAAYi3w79MEy",
+          "tools": [
+            {
+              "name": "Claude Code (Hooks)",
+              "description": "A major feature update enabling 'self-validating agents' via hooks and slash commands. Allows developers to build specialized, reliable AI coding workflows inside their codebase.",
+              "rating": 5.0,
+              "category": "IMMEDIATE ADOPTION",
+              "link": "https://code.claude.com/docs/en/hooks-guide",
+              "github": "",
+              "tags": [
+                "AI Development",
+                "Developer Tools",
+                "Agents"
+              ],
+              "date": "2026-01-19"
+            }
+          ]
+        },
+        {
+          "title": "Top Trending Open Source: RLM & Huobao Drama",
+          "link": "https://www.youtube.com/watch?v=8dXnWk_f77c",
+          "tools": [
+            {
+              "name": "RLM",
+              "description": "Recursive Language Models: A task-agnostic inference paradigm enabling LMs to handle near-infinite context by recursively calling themselves. Cutting-edge research implementation.",
+              "rating": 4.5,
+              "category": "EVALUATE",
+              "link": "https://alexzhang13.github.io/blog/2025/rlm/",
+              "github": "https://github.com/alexzhang13/rlm",
+              "tags": [
+                "AI Research",
+                "LLMs",
+                "Open Source"
+              ],
+              "date": "2026-01-19"
+            },
+            {
+              "name": "Huobao Drama",
+              "description": "An AI-powered short drama production platform automating script generation, character design, storyboarding, and video composition. Open source end-to-end pipeline.",
+              "rating": 4.0,
+              "category": "EVALUATE",
+              "link": "https://github.com/chatfire-AI/huobao-drama",
+              "github": "https://github.com/chatfire-AI/huobao-drama",
+              "tags": [
+                "AI Video",
+                "Content Creation",
+                "Open Source"
+              ],
+              "date": "2026-01-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "January 16, 2026",
+      "tools": [
+        {
+          "name": "Claude-Design-Skill",
+          "description": "A specialized UI crafting skill designed for Claude Code, enhancing its ability to generate high-quality, aesthetically pleasing user interfaces.",
+          "link": "https://github.com/Dammyjay93/claude-design-engineer",
+          "businessValue": "Directly improves the output of one of the most popular AI coding assistants. A force multiplier for frontend development with Claude.",
+          "category": "IMMEDIATE ADOPTION",
+          "starRating": "4.5\u2b50"
+        },
+        {
+          "name": "next-ai-draw-io",
+          "description": "An AI-assisted tool for diagram creation and editing, likely integrating LLM capabilities into the popular draw.io interface.",
+          "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "businessValue": "Strong potential for speeding up system design and documentation workflows.",
+          "category": "EVALUATE",
+          "starRating": "4.0\u2b50"
+        },
+        {
+          "name": "rsc-html-stream",
+          "description": "A utility to inject React Server Components (RSC) payloads directly into HTML streams.",
+          "link": "https://github.com/devongovett/rsc-html-stream",
+          "businessValue": "Valuable for advanced React developers working on performance optimization and bleeding-edge architecture.",
+          "category": "EVALUATE",
+          "starRating": "4.0\u2b50"
+        },
+        {
+          "name": "cf-URL",
+          "description": "A CLI tool providing terminal shortcuts to quickly jump to specific Cloudflare dashboard pages.",
+          "link": "https://github.com/m1guelpf/cf-url",
+          "businessValue": "Quality of life improvement for DevOps and developers heavily invested in the Cloudflare ecosystem.",
+          "category": "EVALUATE",
+          "starRating": "3.5\u2b50"
+        },
+        {
+          "name": "installer",
+          "description": "A simple, streamlined binary installer for GitHub releases.",
+          "link": "https://github.com/captainsafia/installer",
+          "businessValue": "Useful utility for simplifying setup scripts and CI/CD pipelines.",
+          "category": "EVALUATE",
+          "starRating": "3.5\u2b50"
+        },
+        {
+          "name": "InterviewKit",
+          "description": "A full-stack TypeScript monorepo template tailored for building interview platforms or similar applications.",
+          "link": "https://github.com/lingodotdev/interviewkit",
+          "businessValue": "Good starting point for specific projects, but less generally applicable than other tools.",
+          "category": "EVALUATE",
+          "starRating": "3.5\u2b50"
+        },
+        {
+          "name": "semver-php",
+          "description": "A Rust implementation of Composer's Semver parsing logic.",
+          "link": "https://github.com/m1guelpf/semver-php",
+          "businessValue": "Very niche. Only useful for specific tooling scenarios involving PHP and Rust interoperability.",
+          "category": "AVOID",
+          "starRating": "3.0\u2b50"
+        }
+      ]
+    },
+    {
+      "date": "January 16, 2026",
+      "tools": [
+        {
+          "name": "Claude-Design-Skill",
+          "description": "A specialized UI crafting skill designed for Claude Code, enhancing its ability to generate high-quality, aesthetically pleasing user interfaces.",
+          "link": "https://github.com/Dammyjay93/claude-design-engineer",
+          "businessValue": "Directly improves the output of one of the most popular AI coding assistants. A force multiplier for frontend development with Claude.",
+          "category": "IMMEDIATE ADOPTION",
+          "starRating": "4.5\u2b50"
+        },
+        {
+          "name": "next-ai-draw-io",
+          "description": "An AI-assisted tool for diagram creation and editing, likely integrating LLM capabilities into the popular draw.io interface.",
+          "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "businessValue": "Strong potential for speeding up system design and documentation workflows.",
+          "category": "EVALUATE",
+          "starRating": "4.0\u2b50"
+        },
+        {
+          "name": "rsc-html-stream",
+          "description": "A utility to inject React Server Components (RSC) payloads directly into HTML streams.",
+          "link": "https://github.com/devongovett/rsc-html-stream",
+          "businessValue": "Valuable for advanced React developers working on performance optimization and bleeding-edge architecture.",
+          "category": "EVALUATE",
+          "starRating": "4.0\u2b50"
+        },
+        {
+          "name": "cf-URL",
+          "description": "A CLI tool providing terminal shortcuts to quickly jump to specific Cloudflare dashboard pages.",
+          "link": "https://github.com/m1guelpf/cf-url",
+          "businessValue": "Quality of life improvement for DevOps and developers heavily invested in the Cloudflare ecosystem.",
+          "category": "EVALUATE",
+          "starRating": "3.5\u2b50"
+        },
+        {
+          "name": "installer",
+          "description": "A simple, streamlined binary installer for GitHub releases.",
+          "link": "https://github.com/captainsafia/installer",
+          "businessValue": "Useful utility for simplifying setup scripts and CI/CD pipelines.",
+          "category": "EVALUATE",
+          "starRating": "3.5\u2b50"
+        },
+        {
+          "name": "InterviewKit",
+          "description": "A full-stack TypeScript monorepo template tailored for building interview platforms or similar applications.",
+          "link": "https://github.com/lingodotdev/interviewkit",
+          "businessValue": "Good starting point for specific projects, but less generally applicable than other tools.",
+          "category": "EVALUATE",
+          "starRating": "3.5\u2b50"
+        },
+        {
+          "name": "semver-php",
+          "description": "A Rust implementation of Composer's Semver parsing logic.",
+          "link": "https://github.com/m1guelpf/semver-php",
+          "businessValue": "Very niche. Only useful for specific tooling scenarios involving PHP and Rust interoperability.",
+          "category": "AVOID",
+          "starRating": "3.0\u2b50"
+        }
+      ]
+    },
+    {
+      "date": "January 9, 2026",
+      "tools": [
+        {
+          "name": "Mnexium AI",
+          "description": "Persistent memory layer for AI agents. Solves the 'amnesia' problem by storing, scoring, and recalling long-term context without complex vector DB pipelines.",
+          "link": "https://mnexium.com/",
+          "rating": "5.0\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Critical infrastructure for building advanced, context-aware AI agents."
+        },
+        {
+          "name": "PostSyncer",
+          "description": "AI-driven social media content manager. Schedules, generates, and manages content across multiple platforms from a single interface.",
+          "link": "https://postsyncer.com/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Streamlines social media operations and ensures consistent brand presence."
+        },
+        {
+          "name": "NativeBridge",
+          "description": "Run mobile apps in any browser for testing. No setup required, supports iOS and Android real and emulated devices.",
+          "link": "https://nativebridge.io/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Drastically reduces mobile app testing friction and infrastructure costs."
+        },
+        {
+          "name": "Scaloom",
+          "description": "AI Reddit marketing and engagement agent. Warms up accounts, finds relevant communities, and drives authentic engagement.",
+          "link": "https://scaloom.com/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Unlocks Reddit as a high-value growth channel with automated, safe engagement."
+        },
+        {
+          "name": "Qwen-Image-2512",
+          "description": "Advanced open-source text-to-image AI model. Features enhanced human realism and precise text rendering.",
+          "link": "https://github.com/QwenLM/Qwen-Image",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Top-tier open source alternative for building custom image generation features."
+        },
+        {
+          "name": "create-epoch-app",
+          "description": "Full-stack starter template for building applications with Effect, Convex, and Next.js.",
+          "link": "https://github.com/topics/create-epoch-app",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Accelerates project setup with a modern, type-safe stack."
+        },
+        {
+          "name": "installer",
+          "description": "One-line GitHub binary installer service. Simplifies the distribution and installation of CLI tools.",
+          "link": "https://github.com/topics/installer",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Improves developer experience for internal and external CLI tools."
+        },
+        {
+          "name": "Opttab",
+          "description": "AI visibility and brand presence engine for Generative Engine Optimization (GEO).",
+          "link": "https://www.producthunt.com/products/opttab",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Potential early mover advantage in optimizing for AI search engines."
+        },
+        {
+          "name": "Invoce (Invoicer.ai)",
+          "description": "AI invoice automator for small businesses. Processes PDFs and images to automate AP workflows.",
+          "link": "https://invoicer.ai/",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Efficiency booster for finance teams, though in a crowded market."
+        },
+        {
+          "name": "Moovai",
+          "description": "AI UGC video generator for marketers. Creates realistic user-generated content video ads.",
+          "link": "https://www.producthunt.com/products/moovai-2",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Scales video ad production, pending quality verification."
+        },
+        {
+          "name": "better-all",
+          "description": "JavaScript utility for easy async dependency coordination with automatic optimization.",
+          "link": "https://github.com/topics/better-all",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Useful utility for optimizing complex async flows."
+        },
+        {
+          "name": "claude-hud",
+          "description": "Claude Code plugin that provides a live heads-up display (HUD) for session insights.",
+          "link": "https://github.com/topics/claude-hud",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Enhances developer productivity for Claude Code users."
+        },
+        {
+          "name": "Nutgrafe",
+          "description": "AI news summarizer. Delivers facts in bite-sized summaries.",
+          "link": "https://www.nutgrafe.com/",
+          "rating": "3.5\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Consumer-focused news digest."
+        },
+        {
+          "name": "semver-php",
+          "description": "Rust implementation of the Composer semver library.",
+          "link": "https://github.com/topics/semver-php",
+          "rating": "3.5\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Niche utility for PHP/Rust interoperability."
+        },
+        {
+          "name": "react_chakra_portfolio",
+          "description": "Simple React portfolio template built with Chakra UI.",
+          "link": "https://github.com/topics/react-chakra-portfolio",
+          "rating": "3.5\u2b50",
+          "category": "AVOID",
+          "businessValue": "Generic template with limited enterprise utility."
+        }
+      ]
+    },
+    {
+      "date": "January 9, 2026",
+      "tools": [
+        {
+          "name": "Mnexium AI",
+          "description": "Persistent memory layer for AI agents. Solves the 'amnesia' problem by storing, scoring, and recalling long-term context without complex vector DB pipelines.",
+          "link": "https://mnexium.com/",
+          "rating": "5.0\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Critical infrastructure for building advanced, context-aware AI agents."
+        },
+        {
+          "name": "PostSyncer",
+          "description": "AI-driven social media content manager. Schedules, generates, and manages content across multiple platforms from a single interface.",
+          "link": "https://postsyncer.com/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Streamlines social media operations and ensures consistent brand presence."
+        },
+        {
+          "name": "NativeBridge",
+          "description": "Run mobile apps in any browser for testing. No setup required, supports iOS and Android real and emulated devices.",
+          "link": "https://nativebridge.io/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Drastically reduces mobile app testing friction and infrastructure costs."
+        },
+        {
+          "name": "Scaloom",
+          "description": "AI Reddit marketing and engagement agent. Warms up accounts, finds relevant communities, and drives authentic engagement.",
+          "link": "https://scaloom.com/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Unlocks Reddit as a high-value growth channel with automated, safe engagement."
+        },
+        {
+          "name": "Qwen-Image-2512",
+          "description": "Advanced open-source text-to-image AI model. Features enhanced human realism and precise text rendering.",
+          "link": "https://github.com/QwenLM/Qwen-Image",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Top-tier open source alternative for building custom image generation features."
+        },
+        {
+          "name": "create-epoch-app",
+          "description": "Full-stack starter template for building applications with Effect, Convex, and Next.js.",
+          "link": "https://github.com/topics/create-epoch-app",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Accelerates project setup with a modern, type-safe stack."
+        },
+        {
+          "name": "installer",
+          "description": "One-line GitHub binary installer service. Simplifies the distribution and installation of CLI tools.",
+          "link": "https://github.com/topics/installer",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Improves developer experience for internal and external CLI tools."
+        },
+        {
+          "name": "Opttab",
+          "description": "AI visibility and brand presence engine for Generative Engine Optimization (GEO).",
+          "link": "https://www.producthunt.com/products/opttab",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Potential early mover advantage in optimizing for AI search engines."
+        },
+        {
+          "name": "Invoce (Invoicer.ai)",
+          "description": "AI invoice automator for small businesses. Processes PDFs and images to automate AP workflows.",
+          "link": "https://invoicer.ai/",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Efficiency booster for finance teams, though in a crowded market."
+        },
+        {
+          "name": "Moovai",
+          "description": "AI UGC video generator for marketers. Creates realistic user-generated content video ads.",
+          "link": "https://www.producthunt.com/products/moovai-2",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Scales video ad production, pending quality verification."
+        },
+        {
+          "name": "better-all",
+          "description": "JavaScript utility for easy async dependency coordination with automatic optimization.",
+          "link": "https://github.com/topics/better-all",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Useful utility for optimizing complex async flows."
+        },
+        {
+          "name": "claude-hud",
+          "description": "Claude Code plugin that provides a live heads-up display (HUD) for session insights.",
+          "link": "https://github.com/topics/claude-hud",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Enhances developer productivity for Claude Code users."
+        },
+        {
+          "name": "Nutgrafe",
+          "description": "AI news summarizer. Delivers facts in bite-sized summaries.",
+          "link": "https://www.nutgrafe.com/",
+          "rating": "3.5\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Consumer-focused news digest."
+        },
+        {
+          "name": "semver-php",
+          "description": "Rust implementation of the Composer semver library.",
+          "link": "https://github.com/topics/semver-php",
+          "rating": "3.5\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Niche utility for PHP/Rust interoperability."
+        },
+        {
+          "name": "react_chakra_portfolio",
+          "description": "Simple React portfolio template built with Chakra UI.",
+          "link": "https://github.com/topics/react-chakra-portfolio",
+          "rating": "3.5\u2b50",
+          "category": "AVOID",
+          "businessValue": "Generic template with limited enterprise utility."
+        }
+      ]
+    },
+    {
+      "date": "January 2, 2026",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Giselle",
+            "rating": "5\u2b50",
+            "description": "Open-source visual AI agent workflow builder. \"GitHub-native, team-first.\" Solves the complexity of building agentic workflows with a visual interface.",
+            "businessValue": "Accelerates agent development and democratization of AI workflows within teams.",
+            "githubUrl": "https://github.com/giselles-ai/giselle",
+            "websiteUrl": "https://giselles.ai/",
+            "pricing": "Open Source",
+            "redFlags": "None"
+          },
+          {
+            "name": "Agent by Firecrawl",
+            "rating": "5\u2b50",
+            "description": "\"Gather Data Wherever It Lives.\" Firecrawl is already a top-tier scraping tool; their new Agent API simplifies complex data extraction tasks.",
+            "businessValue": "Critical for research, market intelligence, and feeding data into other AI models.",
+            "websiteUrl": "https://www.firecrawl.dev/agent",
+            "githubUrl": "https://github.com/firecrawl/firecrawl",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Molmo 2",
+            "rating": "4.5\u2b50",
+            "description": "State-of-the-art open multimodal models. Strong performance in video understanding and pointing.",
+            "businessValue": "Enables advanced multimodal applications (video analysis, visual reasoning) without relying on closed APIs.",
+            "githubUrl": "https://github.com/allenai/molmo2",
+            "pricing": "Open Source",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Dropstone",
+            "rating": "4\u2b50",
+            "description": "\"Autonomous Software Engineering Runtime.\" Interesting \"Horizon Mode\" architecture.",
+            "businessValue": "Potential to automate more complex coding tasks than standard copilots, but needs testing against established tools like Cursor/Windsurf.",
+            "websiteUrl": "https://www.dropstone.io/",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Vibe Pocket",
+            "rating": "4\u2b50",
+            "description": "Run CLI AI agents on mobile. Good for on-the-go management but maybe niche for heavy development.",
+            "businessValue": "Increases flexibility for developers managing agents remotely.",
+            "websiteUrl": "https://vibepocket.com/",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Basedash",
+            "rating": "4\u2b50",
+            "description": "AI-native BI. \"Generate beautiful charts and dashboards using natural language.\"",
+            "businessValue": "Democratizes data access for non-technical team members.",
+            "websiteUrl": "https://www.basedash.com/",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Omakase.ai",
+            "rating": "4\u2b50",
+            "description": "Voice-powered sales AI agent.",
+            "businessValue": "Could automate sales calls/support, but voice AI quality is critical and variable.",
+            "websiteUrl": "https://www.omakase.ai/",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Alpie Core",
+            "rating": "4\u2b50",
+            "description": "4-bit reasoning model. Efficient inference is great for cost savings.",
+            "businessValue": "Reduces inference costs for reasoning-heavy tasks.",
+            "websiteUrl": "https://169pi.ai/",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Nowadays",
+            "rating": "3.5\u2b50",
+            "description": "AI corporate event planner. Very specific vertical.",
+            "businessValue": "High value if you plan many events, otherwise low utility.",
+            "websiteUrl": "https://www.nowadays.ai/",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "OptiVault",
+            "rating": "3.5\u2b50",
+            "description": "AI personal financial advisor. Consumer-focused.",
+            "businessValue": "Low business value for enterprise, good for personal use.",
+            "websiteUrl": "https://optivault.co/",
+            "pricing": "Paid",
+            "redFlags": "None"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "January 1, 2026",
+      "videoUrl": "https://www.youtube.com/watch?v=omRtEbUvyOY",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "agentjson",
+            "rating": "5\u2b50",
+            "description": "Solves a critical pain point in AI engineering: broken JSON outputs. The ability to repair JSON spans from arbitrary text is invaluable for robust agent pipelines.",
+            "businessValue": "Increases reliability of AI agents, reduces error handling code, and improves user experience.",
+            "githubUrl": "https://github.com/sigridjineth/agentjson",
+            "redFlags": "None"
+          },
+          {
+            "name": "toMCP",
+            "rating": "5\u2b50",
+            "description": "Bridges the gap between web content and the Model Context Protocol (MCP). Essential for enabling LLMs to interact with dynamic web data in a standardized way.",
+            "businessValue": "Unlocks vast amounts of web data for AI agents, accelerating the development of context-aware applications.",
+            "githubUrl": "https://github.com/Ami3466/tomcp",
+            "redFlags": "None"
+          },
+          {
+            "name": "tenk",
+            "rating": "4.5\u2b50",
+            "description": "Specialized tool for chatting with SEC filings. High value for financial analysis and due diligence workflows.",
+            "businessValue": "Drastically reduces time spent analyzing 10-Ks and 10-Qs, enabling faster investment decisions.",
+            "githubUrl": "https://github.com/ralliesai/tenk",
+            "redFlags": "None"
+          },
+          {
+            "name": "agent-console",
+            "rating": "4.5\u2b50",
+            "description": "Provides visibility into agent execution. Critical for debugging and optimizing complex agent behaviors.",
+            "businessValue": "Improves developer productivity and agent quality by providing clear insights into internal logic.",
+            "githubUrl": "https://github.com/eqtylab/agent-console",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "rsc explorer",
+            "rating": "4\u2b50",
+            "description": "Great for understanding React Server Components, but more of a learning/debugging tool than a production infrastructure component.",
+            "businessValue": "Helps developers master RSCs, potentially leading to better performance and architecture decisions.",
+            "githubUrl": "https://github.com/gaearon/rscexplorer",
+            "redFlags": "None"
+          },
+          {
+            "name": "gentleman-guardian-angel",
+            "rating": "4\u2b50",
+            "description": "AI code review is useful, but integration into existing CI/CD pipelines needs evaluation against established tools like CodeRabbit or GitHub Copilot.",
+            "businessValue": "Potential to improve code quality and consistency, but needs to prove its worth over existing solutions.",
+            "githubUrl": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
+            "redFlags": "None"
+          },
+          {
+            "name": "mosaico",
+            "rating": "4\u2b50",
+            "description": "Promising for robotics data, but niche. Evaluate if you have specific robotics data management needs.",
+            "businessValue": "Streamlines robotics development, but only relevant for specific industries.",
+            "githubUrl": "https://github.com/mosaico-labs/mosaico",
+            "redFlags": "None"
+          },
+          {
+            "name": "CattoPic",
+            "rating": "4\u2b50",
+            "description": "Self-hosted image service is nice, but many managed alternatives exist. Good for privacy/cost control.",
+            "businessValue": "Reduces reliance on third-party image hosting, potentially lowering costs and improving privacy.",
+            "githubUrl": "https://github.com/Yuri-NagaSaki/CattoPic",
+            "redFlags": "None"
+          },
+          {
+            "name": "shout",
+            "rating": "4\u2b50",
+            "description": "Local speech-to-text is useful for privacy and offline apps. Evaluate accuracy and performance against cloud APIs.",
+            "businessValue": "Enables voice features in privacy-sensitive or offline-first applications.",
+            "githubUrl": "https://github.com/robzolkos/shout",
+            "redFlags": "None"
+          },
+          {
+            "name": "llmwalk",
+            "rating": "3.5\u2b50",
+            "description": "Interesting for exploring LLM outputs, but primarily a research/exploration tool.",
+            "businessValue": "Helps researchers understand LLM behavior, but less direct business impact for most companies.",
+            "githubUrl": "https://github.com/samwho/llmwalk",
+            "redFlags": "None"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "January 1, 2026",
+      "videoUrl": "https://www.youtube.com/watch?v=omRtEbUvyOY",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "agentjson",
+            "rating": "5\u2b50",
+            "description": "Solves a critical pain point in AI engineering: broken JSON outputs. The ability to repair JSON spans from arbitrary text is invaluable for robust agent pipelines.",
+            "businessValue": "Increases reliability of AI agents, reduces error handling code, and improves user experience.",
+            "githubUrl": "https://github.com/sigridjineth/agentjson",
+            "redFlags": "None"
+          },
+          {
+            "name": "toMCP",
+            "rating": "5\u2b50",
+            "description": "Bridges the gap between web content and the Model Context Protocol (MCP). Essential for enabling LLMs to interact with dynamic web data in a standardized way.",
+            "businessValue": "Unlocks vast amounts of web data for AI agents, accelerating the development of context-aware applications.",
+            "githubUrl": "https://github.com/Ami3466/tomcp",
+            "redFlags": "None"
+          },
+          {
+            "name": "tenk",
+            "rating": "4.5\u2b50",
+            "description": "Specialized tool for chatting with SEC filings. High value for financial analysis and due diligence workflows.",
+            "businessValue": "Drastically reduces time spent analyzing 10-Ks and 10-Qs, enabling faster investment decisions.",
+            "githubUrl": "https://github.com/ralliesai/tenk",
+            "redFlags": "None"
+          },
+          {
+            "name": "agent-console",
+            "rating": "4.5\u2b50",
+            "description": "Provides visibility into agent execution. Critical for debugging and optimizing complex agent behaviors.",
+            "businessValue": "Improves developer productivity and agent quality by providing clear insights into internal logic.",
+            "githubUrl": "https://github.com/eqtylab/agent-console",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "rsc explorer",
+            "rating": "4\u2b50",
+            "description": "Great for understanding React Server Components, but more of a learning/debugging tool than a production infrastructure component.",
+            "businessValue": "Helps developers master RSCs, potentially leading to better performance and architecture decisions.",
+            "githubUrl": "https://github.com/gaearon/rscexplorer",
+            "redFlags": "None"
+          },
+          {
+            "name": "gentleman-guardian-angel",
+            "rating": "4\u2b50",
+            "description": "AI code review is useful, but integration into existing CI/CD pipelines needs evaluation against established tools like CodeRabbit or GitHub Copilot.",
+            "businessValue": "Potential to improve code quality and consistency, but needs to prove its worth over existing solutions.",
+            "githubUrl": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
+            "redFlags": "None"
+          },
+          {
+            "name": "mosaico",
+            "rating": "4\u2b50",
+            "description": "Promising for robotics data, but niche. Evaluate if you have specific robotics data management needs.",
+            "businessValue": "Streamlines robotics development, but only relevant for specific industries.",
+            "githubUrl": "https://github.com/mosaico-labs/mosaico",
+            "redFlags": "None"
+          },
+          {
+            "name": "CattoPic",
+            "rating": "4\u2b50",
+            "description": "Self-hosted image service is nice, but many managed alternatives exist. Good for privacy/cost control.",
+            "businessValue": "Reduces reliance on third-party image hosting, potentially lowering costs and improving privacy.",
+            "githubUrl": "https://github.com/Yuri-NagaSaki/CattoPic",
+            "redFlags": "None"
+          },
+          {
+            "name": "shout",
+            "rating": "4\u2b50",
+            "description": "Local speech-to-text is useful for privacy and offline apps. Evaluate accuracy and performance against cloud APIs.",
+            "businessValue": "Enables voice features in privacy-sensitive or offline-first applications.",
+            "githubUrl": "https://github.com/robzolkos/shout",
+            "redFlags": "None"
+          },
+          {
+            "name": "llmwalk",
+            "rating": "3.5\u2b50",
+            "description": "Interesting for exploring LLM outputs, but primarily a research/exploration tool.",
+            "businessValue": "Helps researchers understand LLM behavior, but less direct business impact for most companies.",
+            "githubUrl": "https://github.com/samwho/llmwalk",
+            "redFlags": "None"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "December 23, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=eyU94cknCTE",
+      "videoTitle": "Best AI Agent Projects This Week: Multimodal AI, Autonomous Testing & Creative Tools",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "NexaSDK",
+            "description": "On-device multimodal AI SDK for mobile apps. Enables running advanced models locally on Android/iOS for privacy, speed, and offline capabilities. Critical for next-gen mobile dev.",
+            "rating": "5\u2b50",
+            "github": "https://github.com/NexaAI/nexa-sdk",
+            "website": "https://sdk.nexa.ai/",
+            "license": "MIT"
+          },
+          {
+            "name": "Grov",
+            "description": "Collective AI memory for engineering teams. Captures reasoning from Claude/Cursor sessions and shares it team-wide, solving the 'amnesia' problem in AI-assisted coding.",
+            "rating": "5\u2b50",
+            "github": "https://github.com/TonyStef/Grov",
+            "website": "https://grov.dev/",
+            "license": "MIT"
+          },
+          {
+            "name": "ManyPI",
+            "description": "Turns any website into a structured, type-safe API. Invaluable for data enrichment and integrating legacy systems without APIs into modern GTM workflows.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://manypi.com/",
+            "license": "Proprietary"
+          },
+          {
+            "name": "Google Vids",
+            "description": "AI-powered video creation tool integrated into Google Workspace. Low-friction way to create professional internal comms, training, and GTM videos.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://workspace.google.com/products/vids/",
+            "license": "Proprietary"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "QualGent",
+            "description": "Autonomous AI QA agent for mobile apps. Promises to mimic human testers to catch bugs. Evaluate reliability for your mobile CI/CD pipeline.",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://www.ycombinator.com/companies/qualgent",
+            "license": "Proprietary"
+          },
+          {
+            "name": "Okara",
+            "description": "Private AI workspace for open-source models (Llama, Qwen, DeepSeek). Evaluate for teams requiring strict data privacy and open-source flexibility.",
+            "rating": "4\u2b50",
+            "github": "https://github.com/askokara",
+            "website": "https://okara.ai/",
+            "license": "MIT"
+          },
+          {
+            "name": "Wan 2.6",
+            "description": "Cinematic AI video generation platform by Alibaba. Evaluate against Runway/Sora for high-fidelity creative video needs.",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://www.wan-ai.co/",
+            "license": "Proprietary"
+          },
+          {
+            "name": "Syllaby V3.0",
+            "description": "AI video studio for viral content creation. Good for high-volume social media strategies, but evaluate if 'faceless' style fits brand guidelines.",
+            "rating": "3.5\u2b50",
+            "github": "",
+            "website": "https://syllaby.io/",
+            "license": "Proprietary"
+          },
+          {
+            "name": "CanvAi (Canva)",
+            "description": "AI sketch-to-art feature within Canva. Useful for quick ideation and asset creation if your design team is already in the Canva ecosystem.",
+            "rating": "3.5\u2b50",
+            "github": "",
+            "website": "https://www.canva.com/features/ai-sketch-and-draw/",
+            "license": "Proprietary"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "December 18, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=-MDHNSvER5M",
+      "videoTitle": "Best Open-Source Dev Tools This Week & Top AI Agent Projects",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "SolidJS",
+            "description": "High-performance, reactive JavaScript UI library that compiles templates to real DOM nodes. Ideal for building fast, interactive GTM landing pages and web applications without Virtual DOM overhead.",
+            "rating": "5\u2b50",
+            "github": "https://github.com/solidjs/solid",
+            "website": "https://www.solidjs.com/",
+            "license": "MIT"
+          },
+          {
+            "name": "UV",
+            "description": "Extremely fast Python package and project manager written in Rust. Replaces pip, poetry, and virtualenv with a single tool, significantly speeding up development workflows and CI/CD pipelines.",
+            "rating": "5\u2b50",
+            "github": "https://github.com/astral-sh/uv",
+            "website": "https://docs.astral.sh/uv/",
+            "license": "MIT"
+          },
+          {
+            "name": "Claude Quickstarts",
+            "description": "Official collection of deployable application templates for the Claude API. Accelerates integration of advanced AI features into your product for the GTM launch.",
+            "rating": "4.5\u2b50",
+            "github": "https://github.com/anthropics/claude-quickstarts",
+            "website": "",
+            "license": "MIT"
+          },
+          {
+            "name": "Gemini Deep Research",
+            "description": "Autonomous multi-step research agent powered by Gemini. Automates deep market research and competitor analysis, providing comprehensive insights for GTM strategy.",
+            "rating": "4.5\u2b50",
+            "github": "https://github.com/google-gemini/gemini-cli",
+            "website": "",
+            "license": "Apache 2.0"
+          },
+          {
+            "name": "Tactiq",
+            "description": "AI meeting assistant that transcribes and summarizes calls on Google Meet, Zoom, and Teams. Captures critical GTM action items and decisions without a bot joining the call.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://tactiq.io/",
+            "license": "Proprietary"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Devstral 2 (Mistral Vibe)",
+            "description": "Minimal CLI coding assistant powered by Mistral's Devstral models. capable of executing changes across a codebase. Evaluate for enhancing developer productivity.",
+            "rating": "4.5\u2b50",
+            "github": "https://github.com/mistralai/mistral-vibe",
+            "website": "",
+            "license": "Apache 2.0"
+          },
+          {
+            "name": "CSV AI Analyzer",
+            "description": "Privacy-first, browser-based tool for analyzing CSV data with AI. Generates insights and charts locally, useful for quick marketing data analysis without data privacy concerns.",
+            "rating": "4\u2b50",
+            "github": "https://github.com/maxgfr/csv-ai-analyzer",
+            "website": "https://maxgfr.github.io/csv-ai-analyzer/",
+            "license": "MIT"
+          },
+          {
+            "name": "Excel AI Agent",
+            "description": "AI agent using MCP tools to read, edit, and automate Excel spreadsheets via natural language. Potential to streamline finance and operations workflows.",
+            "rating": "4\u2b50",
+            "github": "https://github.com/SylvianAI/sv-excel-agent",
+            "website": "",
+            "license": "MIT"
+          },
+          {
+            "name": "Real-Time Translator",
+            "description": "Python application for live speech-to-text transcription and translation overlay. Useful for cross-border team communication during launch coordination.",
+            "rating": "3.5\u2b50",
+            "github": "https://github.com/SamirPaulb/real-time-voice-translator",
+            "website": "",
+            "license": "MIT"
+          }
+        ],
+        "AVOID": [
+          {
+            "name": "LibrePods",
+            "description": "Open-source app to unlock premium AirPods features on non-Apple devices. Consumer utility not relevant to business operations or GTM launch.",
+            "rating": "3.5\u2b50",
+            "github": "https://github.com/kavishdevar/librepods",
+            "website": "",
+            "license": "GPL-3.0"
+          }
+        ]
+      }
+    },
+    {
+      "date": "December 10, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=cFrrrNE06pk",
+      "videoTitle": "Top Open-Source Backend & AI Agent GitHub Projects: PocketBase, ElectricSQL & More #214",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "PocketBase",
+            "description": "One-file, open-source, real-time backend written in Go with embedded SQLite database, user authentication, file storage, and admin dashboard. Provides REST APIs, realtime updates, and authentication in a single executable.",
+            "rating": "5\u2b50",
+            "github": "https://github.com/pocketbase/pocketbase",
+            "website": "https://pocketbase.io/",
+            "license": "MIT"
+          },
+          {
+            "name": "Rivet",
+            "description": "Visual and scalable open-source framework for building long-lived, in-memory, stateful applications like chat rooms, multiplayer games, and AI agent backends. Rivet Actors provide persistent memory and durable state for applications that hit the limitations of HTTP, databases, or queues.",
+            "rating": "4.5\u2b50",
+            "github": "https://github.com/rivet-dev/rivet",
+            "website": "https://www.rivet.dev/",
+            "license": "Open Source"
+          },
+          {
+            "name": "TrailBase",
+            "description": "Super-fast, self-hosted, open-source backend server packaged into a single executable with SQLite, WebAssembly runtime, real-time APIs, and authentication. Built with Rust and SQLite, offering type-safe REST APIs, SSR, and admin UI.",
+            "rating": "4.5\u2b50",
+            "github": "https://github.com/trailbaseio/trailbase",
+            "website": "https://trailbase.io/",
+            "license": "Open Source"
+          },
+          {
+            "name": "ElectricSQL",
+            "description": "Open-source, real-time sync engine for Postgres that enables reactive, offline-capable, and collaborative apps. Provides real-time synchronization for database-backed applications with strong consistency guarantees.",
+            "rating": "4.5\u2b50",
+            "github": "https://github.com/electric-sql/electric",
+            "website": "https://electric-sql.com/",
+            "license": "Apache 2.0"
+          },
+          {
+            "name": "ComfyUI Manager",
+            "description": "Streamlined, open-source plugin hub and extension for ComfyUI that manages installation, removal, and updating of custom nodes and models. Offers management functions to install, remove, disable, and enable various custom nodes with a hub feature.",
+            "rating": "4.5\u2b50",
+            "github": "https://github.com/Comfy-Org/ComfyUI-Manager",
+            "website": "https://www.comfy.org/",
+            "license": "Open Source"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Open Scouts",
+            "description": "AI-powered web monitoring platform from Firecrawl that creates automated scouts to search the web for changing content and sends email alerts. Users can create AI agents that watch the web 24/7 and alert when anything changes (ticket drops, restocks, news, etc.).",
+            "rating": "4\u2b50",
+            "github": "https://github.com/firecrawl/open-scouts",
+            "website": "https://openscouts.firecrawl.dev/",
+            "license": "Open Source"
+          },
+          {
+            "name": "StemLab",
+            "description": "Local-first, open-source AI application for Windows that separates music tracks into individual stems (vocals, drums, bass, other) offline. Leverages state-of-the-art Demucs v4 and MDX-Net ensemble models for 2/4/6 stem separation.",
+            "rating": "4\u2b50",
+            "github": "https://github.com/sunsetsacoustic/StemLab",
+            "website": "https://www.stemlab.store/",
+            "license": "Open Source"
+          },
+          {
+            "name": "Jargon",
+            "description": "AI-powered personal research library and zettelkasten that ingests articles, PDFs, and YouTube videos, then summarizes and interlinks key ideas. An AI-managed zettelkasten that parses content into index card-sized key ideas.",
+            "rating": "3.5\u2b50",
+            "github": "https://github.com/schoblaska/jargon",
+            "website": "",
+            "license": "Open Source"
+          },
+          {
+            "name": "Jarvis AI Assistant",
+            "description": "Voice-powered, open-source, privacy-first personal assistant for macOS that operates locally. Runs 100% privately on your computer, never forgets, and can be left on 24/7 to learn preferences and help with code.",
+            "rating": "3.5\u2b50",
+            "github": "https://github.com/isair/jarvis",
+            "website": "https://jarvis.genxr.co/",
+            "license": "Open Source"
+          },
+          {
+            "name": "OpCore Simplify",
+            "description": "Automated, open-source tool to simplify creation of OpenCore EFI configurations for building a Hackintosh. Streamlines OpenCore EFI creation by automating the essential setup process and providing standardized configurations.",
+            "rating": "3.5\u2b50",
+            "github": "https://github.com/lzhoang2801/OpCore-Simplify",
+            "website": "",
+            "license": "Open Source"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "December 2, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=8J_VaJHRlNA",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Agenta",
+            "description": "Open-source LLMOps platform for building, testing, deploying, and monitoring LLM applications",
+            "rating": "5\u2b50",
+            "github": "https://github.com/Agenta-AI/agenta",
+            "website": "https://agenta.ai/"
+          },
+          {
+            "name": "Claude Opus 4.5",
+            "description": "Frontier AI model from Anthropic for production-quality code generation and complex reasoning",
+            "rating": "5\u2b50",
+            "github": "",
+            "website": "https://www.anthropic.com"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "ActFlux",
+            "description": "AI meeting intelligence platform with transcription, action item extraction, and Kanban board",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://actflux.com/"
+          },
+          {
+            "name": "Nao",
+            "description": "AI-powered data IDE for SQL/DBT generation with database schema understanding",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": ""
+          },
+          {
+            "name": "AskCodi",
+            "description": "Multi-LLM gateway and unified AI coding assistant with IDE integration",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": ""
+          }
+        ],
+        "AVOID": [
+          {
+            "name": "Cracked.ai",
+            "description": "Agentic marketing automation with AI influencers - ethical concerns and unproven approach",
+            "rating": "3\u2b50",
+            "github": "",
+            "website": "https://cracked.ai/"
+          },
+          {
+            "name": "Questas",
+            "description": "Interactive choose-your-own-adventure platform - too niche for general adoption",
+            "rating": "3\u2b50",
+            "github": "",
+            "website": ""
+          },
+          {
+            "name": "CatDoes v3",
+            "description": "No-code AI app builder - crowded space with unproven execution",
+            "rating": "3\u2b50",
+            "github": "",
+            "website": ""
+          },
+          {
+            "name": "Synara",
+            "description": "Modern calendar invite API - needs proven reliability for mission-critical use",
+            "rating": "3\u2b50",
+            "github": "",
+            "website": ""
+          },
+          {
+            "name": "Aden",
+            "description": "AI-native ERP system - too risky for production without extensive validation",
+            "rating": "3\u2b50",
+            "github": "",
+            "website": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "November 24, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=KLODmlb-Ra8",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "DeepSeek-OCR",
+            "rating": "5\u2b50",
+            "description": "Document processing with 10x compression and 2500 tokens/sec on single GPU",
+            "github": "https://github.com/deepseek-ai/DeepSeek-OCR",
+            "website": "https://www.deepseek.com/",
+            "license": "MIT"
+          },
+          {
+            "name": "Reader 3",
+            "rating": "5\u2b50",
+            "description": "Lightweight self-hosted EPUB reader with AI conversation integration by Andrej Karpathy",
+            "github": "https://github.com/karpathy/reader3",
+            "website": "",
+            "license": "MIT"
+          },
+          {
+            "name": "PlayCanvas Engine",
+            "rating": "5\u2b50",
+            "description": "Production-proven WebGL/WebGPU game engine used by Disney, King, BMW, Samsung, Mozilla",
+            "github": "https://github.com/playcanvas/engine",
+            "website": "https://playcanvas.com/",
+            "license": "MIT"
+          },
+          {
+            "name": "Better-T-Stack",
+            "rating": "5\u2b50",
+            "description": "Modern CLI for scaffolding end-to-end type-safe TypeScript projects with customizable stack",
+            "github": "https://github.com/AmanVarshney01/create-better-t-stack",
+            "website": "",
+            "license": ""
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Spatial Reasoning",
+            "rating": "4\u2b50",
+            "description": "Zero-shot object detection using visual spatial reasoning for 3D scene understanding",
+            "github": "https://github.com/cambridgeltl/visual-spatial-reasoning",
+            "website": "",
+            "license": "MIT"
+          },
+          {
+            "name": "WSABuilds",
+            "rating": "4\u2b50",
+            "description": "Run Android apps on Windows 11 using Windows Subsystem for Android builds",
+            "github": "https://github.com/MustardChef/WSABuilds",
+            "website": "",
+            "license": "AGPL"
+          },
+          {
+            "name": "OpenCloud",
+            "rating": "4\u2b50",
+            "description": "Self-hosted file sharing platform with OpenID Connect auth built in Go",
+            "github": "https://github.com/opencloud-eu/opencloud",
+            "website": "https://opencloud.eu/",
+            "license": "Apache 2.0"
+          },
+          {
+            "name": "Rebrowse App",
+            "rating": "4\u2b50",
+            "description": "Self-learning browser recorder with Playwright integration for automated testing",
+            "github": "https://github.com/zk1tty/rebrowse-app",
+            "website": "",
+            "license": ""
+          }
+        ],
+        "AVOID": [
+          {
+            "name": "Discordo",
+            "rating": "3\u2b50",
+            "description": "Terminal-based Discord client written in Go (niche use case, GPL 3.0 license)",
+            "github": "https://github.com/ayn2op/discordo",
+            "website": "",
+            "license": "GPL 3.0"
+          },
+          {
+            "name": "Supercookie",
+            "rating": "3\u2b50",
+            "description": "Educational tool demonstrating favicon-based tracking (not a practical development tool)",
+            "github": "https://github.com/jonasstrehle/supercookie",
+            "website": "",
+            "license": ""
+          }
+        ]
+      }
+    },
+    {
+      "date": "November 24, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=mfaMQzOkG4Q",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "DBeaver",
+            "rating": "5\u2b50",
+            "description": "Universal database tool supporting 100+ databases with AI-assisted SQL completion and ER diagrams",
+            "github": "https://github.com/dbeaver/dbeaver",
+            "website": "https://dbeaver.io/",
+            "license": "Apache 2.0"
+          },
+          {
+            "name": "Skyvern",
+            "rating": "5\u2b50",
+            "description": "AI-powered browser automation that works on unseen websites using visual reasoning",
+            "github": "https://github.com/Skyvern-AI/skyvern",
+            "website": "https://www.skyvern.com/",
+            "license": "AGPL 3.0"
+          },
+          {
+            "name": "Evermeos",
+            "rating": "5\u2b50",
+            "description": "Intelligent long-term memory system for AI agents with 92.3% reasoning accuracy on benchmarks",
+            "github": "https://github.com/EverMind-AI/EverMemOS",
+            "website": "",
+            "license": "Apache 2.0"
+          },
+          {
+            "name": "Carpathy",
+            "rating": "5\u2b50",
+            "description": "Agentic machine learning engineer using Claude Code SDK and Google ADK for autonomous ML workflows",
+            "github": "https://github.com/K-Dense-AI/karpathy",
+            "website": "",
+            "license": "MIT"
+          },
+          {
+            "name": "Supertonic",
+            "rating": "5\u2b50",
+            "description": "Lightning-fast on-device text-to-speech (1,63 chars/sec CPU, 12,164 chars/sec RTX 4090)",
+            "github": "https://github.com/supertone-inc/supertonic",
+            "website": "https://supertonictts.github.io/",
+            "license": ""
+          },
+          {
+            "name": "MiniMind",
+            "rating": "5\u2b50",
+            "description": "Train tiny LLM from scratch (26M params, 2 hours on RTX3090, $3 cost) with full pipeline support",
+            "github": "https://github.com/jingyaogong/minimind",
+            "website": "https://jingyaogong.github.io/minimind/",
+            "license": "Apache 2.0"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "BetaFish",
+            "rating": "4\u2b50",
+            "description": "Multi-agent public opinion analysis across 30+ social platforms with AI-driven crawling",
+            "github": "https://github.com/666ghj/BettaFish",
+            "website": "",
+            "license": ""
+          },
+          {
+            "name": "GitLog",
+            "rating": "4\u2b50",
+            "description": "Cinematic git history visualization in terminal for presentations and code reviews",
+            "github": "https://github.com/unhappychoice/gitlogue",
+            "website": "",
+            "license": ""
+          },
+          {
+            "name": "LPLB",
+            "rating": "4\u2b50",
+            "description": "Linear programming load balancer for MoE models with dynamic expert reordering",
+            "github": "https://github.com/deepseek-ai/LPLB",
+            "website": "",
+            "license": "MIT"
+          },
+          {
+            "name": "FastGS",
+            "rating": "4\u2b50",
+            "description": "Accelerated 3D Gaussian splatting training (3.3x faster) for AR/VR and 3D reconstruction",
+            "github": "https://github.com/fastgs/FastGS",
+            "website": "",
+            "license": ""
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "November 21, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=NeXD-BuAEwM",
+      "videoTitle": "10 new GitHub Projects: Open Source AI, Native UI, & Decentralized Inference",
+      "tools": [
+        {
+          "name": "Radon IDE",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "VSCode/Cursor extension that transforms your editor into a full-featured IDE for React Native and Expo development",
+          "businessValue": "Dramatically improves React Native development workflow with integrated simulator, debugger, component inspector, and network monitoring",
+          "githubUrl": "https://github.com/software-mansion/radon-ide",
+          "websiteUrl": "https://ide.swmansion.com/",
+          "redFlags": "None"
+        },
+        {
+          "name": "MCP Toolbox for Databases",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Cross-platform server enabling GenAI agents to securely access databases with performant SQL queries",
+          "businessValue": "Bridges LLM orchestration frameworks (LangChain, LlamaIndex) with databases through simple tools.yaml configuration",
+          "githubUrl": "https://github.com/googleapis/genai-toolbox",
+          "websiteUrl": "",
+          "redFlags": "None"
+        },
+        {
+          "name": "Valdi",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Cross-platform native UI framework compiling TypeScript/TSX directly to native views on iOS, Android, macOS",
+          "businessValue": "Combines web development velocity with native performance - battle-tested in Snapchat production for 8+ years",
+          "githubUrl": "https://github.com/Snapchat/Valdi",
+          "websiteUrl": "",
+          "redFlags": "None"
+        },
+        {
+          "name": "awesome-claude-skills",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Curated repository of practical skills, resources, and tools for customizing Claude AI workflows",
+          "businessValue": "Enables rapid Claude customization for specialized tasks without building from scratch",
+          "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "websiteUrl": "",
+          "redFlags": "Requires Claude subscription"
+        },
+        {
+          "name": "Supadata",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Web & Video to text API that turns videos and websites into structured data for AI agents",
+          "businessValue": "Simplifies data collection with video transcription (YouTube, TikTok) and web scraping to markdown",
+          "githubUrl": "https://github.com/supadata-ai/mcp",
+          "websiteUrl": "https://supadata.ai/",
+          "redFlags": "100 free requests may be limiting"
+        },
+        {
+          "name": "VibeVoice",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Frontier TTS model for generating expressive, long-form, multi-speaker conversational audio up to 90 minutes",
+          "businessValue": "Enables natural multi-speaker dialogue generation for podcasts, audiobooks, training materials",
+          "githubUrl": "https://github.com/microsoft/VibeVoice",
+          "websiteUrl": "",
+          "redFlags": "Research-grade, may require significant compute"
+        },
+        {
+          "name": "Parallax",
+          "rating": "3.5\u2b50",
+          "category": "EVALUATE",
+          "description": "Distributed model serving framework for building AI inference clusters across heterogeneous devices",
+          "businessValue": "Cost-efficient LLM inference through pipeline sharding and dynamic scheduling",
+          "githubUrl": "https://github.com/GradientHQ/parallax",
+          "websiteUrl": "",
+          "redFlags": "Complex setup, requires infrastructure expertise"
+        },
+        {
+          "name": "Lunaroute",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "High-performance local proxy for AI coding assistants with complete visibility into LLM interactions",
+          "businessValue": "Provides session recording, PII redaction, and token usage tracking for AI coding workflows",
+          "githubUrl": "https://github.com/erans/lunaroute",
+          "websiteUrl": "",
+          "redFlags": "Adds complexity to development setup"
+        },
+        {
+          "name": "Stage",
+          "rating": "3\u2b50",
+          "category": "EVALUATE",
+          "description": "Free, open-source web-based canvas editor for creating visual designs",
+          "businessValue": "Quick graphics creation without external tools, built with Next.js/React/TypeScript",
+          "githubUrl": "https://github.com/KartikLabhshetwar/stage",
+          "websiteUrl": "",
+          "redFlags": "Individual developer project, limited features"
+        },
+        {
+          "name": "TrendRadar",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Real-time multi-platform news-trend analyzer aggregating from 35+ platforms with AI analysis",
+          "businessValue": "Automates trend tracking with sentiment analysis and multi-channel notifications",
+          "githubUrl": "https://github.com/sansan0/TrendRadar",
+          "websiteUrl": "https://trendradar.app/",
+          "redFlags": "GPL-3.0 license requires derivative works to be open source"
+        },
+        {
+          "name": "Usage4Claude",
+          "rating": "3\u2b50",
+          "category": "AVOID",
+          "description": "macOS menu bar app for real-time monitoring of Claude AI's 5-hour usage quota",
+          "businessValue": "Helps manage Claude costs through token tracking and session metadata logging",
+          "githubUrl": "https://github.com/f-is-h/Usage4Claude",
+          "websiteUrl": "",
+          "redFlags": "macOS only, very niche use case, Claude API already provides usage tracking"
+        }
+      ]
+    },
+    {
+      "date": "November 20, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=0pn1Hx1xPPQ",
+      "videoTitle": "Top 7 Open Source Dev Tools",
+      "tools": [
+        {
+          "name": "Cognee",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "AI agent memory platform combining knowledge graphs with vector search",
+          "businessValue": "Reduces AI development complexity, improves agent accuracy",
+          "githubUrl": "https://github.com/topoteretes/cognee",
+          "websiteUrl": "https://www.cognee.ai/",
+          "stars": "8.9k",
+          "license": "Apache 2.0",
+          "redFlags": "None"
+        },
+        {
+          "name": "Lima",
+          "rating": "5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Linux VMs for macOS - CNCF incubating project",
+          "businessValue": "Essential for macOS dev teams, free VM alternative",
+          "githubUrl": "https://github.com/lima-vm/lima",
+          "websiteUrl": "https://lima-vm.io/",
+          "stars": "19.2k",
+          "license": "Apache 2.0",
+          "redFlags": "398 open issues (normal for CNCF)"
+        },
+        {
+          "name": "Finicky",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Smart browser router for macOS",
+          "businessValue": "High productivity for multi-browser workflows",
+          "githubUrl": "https://github.com/johnste/finicky",
+          "websiteUrl": "",
+          "stars": "4.4k",
+          "license": "MIT",
+          "redFlags": "None"
+        },
+        {
+          "name": "Agent Lightning",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Microsoft Research RL framework for AI agents",
+          "businessValue": "Improves agent performance, requires ML expertise",
+          "githubUrl": "https://github.com/microsoft/agent-lightning",
+          "websiteUrl": "https://www.microsoft.com/en-us/research/project/agent-lightning/",
+          "stars": "8.7k",
+          "license": "MIT",
+          "redFlags": "Research-grade, requires RL expertise"
+        },
+        {
+          "name": "OpenCloud",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Self-hosted file sharing platform",
+          "businessValue": "Data sovereignty, GDPR compliance",
+          "githubUrl": "https://github.com/opencloud-eu/opencloud",
+          "websiteUrl": "https://opencloud.eu/",
+          "stars": "4k",
+          "license": "Apache 2.0",
+          "redFlags": "236 open issues"
+        },
+        {
+          "name": "iMessage-Kit",
+          "rating": "3\u2b50",
+          "category": "EVALUATE",
+          "description": "macOS iMessage automation SDK",
+          "businessValue": "iMessage integration for AI agents",
+          "githubUrl": "https://github.com/photon-hq/imessage-kit",
+          "websiteUrl": "",
+          "stars": "356",
+          "license": "MIT",
+          "redFlags": "License instability (SSPL\u2192MIT)"
+        },
+        {
+          "name": "Discordo",
+          "rating": "2\u2b50",
+          "category": "AVOID",
+          "description": "Terminal Discord client",
+          "businessValue": "NEGATIVE - Account ban risk",
+          "githubUrl": "https://github.com/ayn2op/discordo",
+          "websiteUrl": "",
+          "stars": "4k",
+          "license": "GPL-3.0",
+          "redFlags": "CRITICAL: Violates Discord ToS"
+        }
+      ]
+    }
+  ],
+  "productHunt": [
+    {
+      "date": "January 20, 2026",
+      "launches": [
+        {
+          "name": "daily.dev",
+          "rating": "4.8\u2b50",
+          "description": "The homepage every developer deserves. A professional network and news aggregator that keeps developers updated with the latest tools, trends, and articles. Now launching 'daily.dev Recruiter' to connect companies with passive talent.",
+          "businessValue": "Essential for developers to stay ahead of the curve. The new recruiting feature opens a high-quality channel for hiring technical talent.",
+          "githubUrl": "https://github.com/dailydotdev/daily",
+          "websiteUrl": "https://daily.dev/",
+          "redFlags": "None"
+        },
+        {
+          "name": "InteractPitch",
+          "rating": "4.5\u2b50",
+          "description": "Turns static pitch decks into interactive experiences with an AI avatar that guides investors through the slides. Provides real-time insights into viewer engagement and questions.",
+          "businessValue": "Transforms the fundraising process by providing actionable data on investor interest before the first meeting.",
+          "githubUrl": "",
+          "websiteUrl": "https://interactpitch.ai/",
+          "redFlags": "None"
+        }
+      ]
+    },
+    {
+      "date": "Jan 19, 2026",
+      "tools": [
+        {
+          "name": "Claude Code (Hooks)",
+          "description": "A major feature update enabling 'self-validating agents' via hooks and slash commands. Allows developers to build specialized, reliable AI coding workflows inside their codebase.",
+          "rating": 5.0,
+          "category": "IMMEDIATE ADOPTION",
+          "link": "https://code.claude.com/docs/en/hooks-guide",
+          "github": "",
+          "tags": [
+            "AI Development",
+            "Developer Tools",
+            "Agents"
+          ],
+          "date": "2026-01-19"
+        },
+        {
+          "name": "Noodle Seed",
+          "description": "A platform that creates AI apps so your business gets recommended inside ChatGPT and other agents. Solves the critical 'SEO for AI Agents' problem.",
+          "rating": 4.5,
+          "category": "IMMEDIATE ADOPTION",
+          "link": "https://noodleseed.com",
+          "github": "",
+          "tags": [
+            "Marketing",
+            "AI",
+            "SEO"
+          ],
+          "date": "2026-01-19"
+        },
+        {
+          "name": "OS Ninja",
+          "description": "An AI-powered platform to explore and learn open source projects. Features 'Socratic' and 'Feynman' modes to turn complex codebases into interactive learning journeys.",
+          "rating": 4.5,
+          "category": "IMMEDIATE ADOPTION",
+          "link": "https://os.ninja",
+          "github": "",
+          "tags": [
+            "Education",
+            "Open Source",
+            "Developer Tools"
+          ],
+          "date": "2026-01-19"
+        },
+        {
+          "name": "RLM",
+          "description": "Recursive Language Models: A task-agnostic inference paradigm enabling LMs to handle near-infinite context by recursively calling themselves. Cutting-edge research implementation.",
+          "rating": 4.5,
+          "category": "EVALUATE",
+          "link": "https://alexzhang13.github.io/blog/2025/rlm/",
+          "github": "https://github.com/alexzhang13/rlm",
+          "tags": [
+            "AI Research",
+            "LLMs",
+            "Open Source"
+          ],
+          "date": "2026-01-19"
+        },
+        {
+          "name": "Updatest",
+          "description": "A Mac app that unifies updates from Homebrew, Mac App Store, Sparkle, Electron, and GitHub Releases into one clean dashboard. Essential for Mac power users.",
+          "rating": 4.0,
+          "category": "EVALUATE",
+          "link": "https://updatest.app",
+          "github": "",
+          "tags": [
+            "Productivity",
+            "Mac",
+            "Developer Tools"
+          ],
+          "date": "2026-01-19"
+        },
+        {
+          "name": "Huobao Drama",
+          "description": "An AI-powered short drama production platform automating script generation, character design, storyboarding, and video composition. Open source end-to-end pipeline.",
+          "rating": 4.0,
+          "category": "EVALUATE",
+          "link": "https://github.com/chatfire-AI/huobao-drama",
+          "github": "https://github.com/chatfire-AI/huobao-drama",
+          "tags": [
+            "AI Video",
+            "Content Creation",
+            "Open Source"
+          ],
+          "date": "2026-01-19"
+        }
+      ]
+    },
+    {
+      "date": "January 18, 2026",
+      "tools": [
+        {
+          "name": "PostSyncer 2",
+          "description": "AI Content Maker for Social Media Publishing. Manage all social accounts at scale, create, schedule, and reply across 10+ platforms. Features AI content generation (Sora, Veo), UGC avatars, and a viral content library.",
+          "link": "https://postsyncer.com",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Consolidates social media workflows into a single AI-powered platform, reducing tool fragmentation and accelerating content production."
+        },
+        {
+          "name": "MiroMiro",
+          "description": "Copy any website's design & assets in one click. Chrome extension to inspect and extract design assets (CSS, colors, fonts, spacing) without opening DevTools. Download images, SVGs, and Lottie animations. Export to Tailwind config.",
+          "link": "https://miromiro.app",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Significantly speeds up design-to-code workflows by automating asset extraction and style replication."
+        },
+        {
+          "name": "Dewdrop 2",
+          "description": "Turn forgotten bookmarks into daily discoveries. Connects with Raindrop.io to randomly pick forgotten gems and send concise summaries to your inbox daily.",
+          "link": "https://dewdropapp.com",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Helps maximize the value of existing knowledge bases by resurfacing saved content."
+        },
+        {
+          "name": "CyberCut AI",
+          "description": "AI video studio for viral social clips. Auto-slice long footage into social-ready clips, generate marketing videos from scripts, add high-precision subtitles, and edit by text.",
+          "link": "https://cybercut.ai",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Streamlines video repurposing and creation, potentially lowering production costs for social video marketing."
+        }
+      ]
+    },
+    {
+      "date": "January 16, 2026",
+      "tools": [
+        {
+          "name": "Superdesign Prompt Library",
+          "description": "The largest community-driven design prompt library, covering styles, animations, and UI components. It allows users to build and share design prompts privately or publicly and works with any coding agent.",
+          "link": "https://superdesign.dev",
+          "businessValue": "Solves the 'blank canvas' problem for AI design generation. Essential for teams using AI for UI/UX to maintain consistency and quality.",
+          "category": "IMMEDIATE ADOPTION",
+          "starRating": "4.5\u2b50"
+        },
+        {
+          "name": "Boom 6",
+          "description": "A Mac-exclusive video app for presenting live and recording screens. It offers pro layouts, cinematic transitions, and Stream Deck support, positioning itself as a simpler, more polished alternative to OBS and Loom.",
+          "link": "https://boomvideo.app",
+          "businessValue": "High production value for demos and calls without the complexity of OBS. 'No editing' workflow is a huge time saver for content creators and founders.",
+          "category": "IMMEDIATE ADOPTION",
+          "starRating": "4.5\u2b50"
+        }
+      ]
+    },
+    {
+      "date": "January 16, 2026",
+      "tools": [
+        {
+          "name": "Superdesign Prompt Library",
+          "description": "The largest community-driven design prompt library, covering styles, animations, and UI components. It allows users to build and share design prompts privately or publicly and works with any coding agent.",
+          "link": "https://superdesign.dev",
+          "businessValue": "Solves the 'blank canvas' problem for AI design generation. Essential for teams using AI for UI/UX to maintain consistency and quality.",
+          "category": "IMMEDIATE ADOPTION",
+          "starRating": "4.5\u2b50"
+        },
+        {
+          "name": "Boom 6",
+          "description": "A Mac-exclusive video app for presenting live and recording screens. It offers pro layouts, cinematic transitions, and Stream Deck support, positioning itself as a simpler, more polished alternative to OBS and Loom.",
+          "link": "https://boomvideo.app",
+          "businessValue": "High production value for demos and calls without the complexity of OBS. 'No editing' workflow is a huge time saver for content creators and founders.",
+          "category": "IMMEDIATE ADOPTION",
+          "starRating": "4.5\u2b50"
+        }
+      ]
+    },
+    {
+      "date": "January 9, 2026",
+      "tools": [
+        {
+          "name": "Chirpz",
+          "description": "AI agent for literature discovery. Finds, prioritizes, reads, and cites academic papers, understanding context to surface unseen literature.",
+          "link": "https://chirpz.ai/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Accelerates research workflows and ensures comprehensive literature review."
+        },
+        {
+          "name": "Repo Prompt",
+          "description": "Automate assembling the perfect context for AI coding. Analyzes codebase to build token-efficient prompts for LLMs.",
+          "link": "https://repoprompt.com/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Optimizes AI coding efficiency by solving the context window and relevance problem."
+        },
+        {
+          "name": "Kuulto",
+          "description": "The terminal reimagined. A modern terminal that bridges classic CLI power with AI file organization and image conversion.",
+          "link": "https://www.producthunt.com/products/kuulto-the-terminal-reimagined",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Modernizes the developer terminal experience with AI-native features."
+        },
+        {
+          "name": "Loki Build 2",
+          "description": "AI-native website builder that generates studio-grade landing pages. Offers full control in a real, live editor.",
+          "link": "https://loki.build/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "High-quality, rapid landing page generation for marketing campaigns."
+        },
+        {
+          "name": "Death to the Stock Photo",
+          "description": "Artist-led stock photo library offering authentic, non-stocky visuals. Provides 'Brand' (solo) and 'Agency' (transfer rights) plans.",
+          "link": "https://www.deathtothestockphoto.com/pricing",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "High-quality, unique visual assets that elevate brand aesthetics beyond generic stock photography."
+        },
+        {
+          "name": "Capacity",
+          "description": "Create full-stack web applications in seconds. Defines apps with an AI co-founder before building.",
+          "link": "https://www.producthunt.com/products/capacity",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Rapid prototyping tool for full-stack apps."
+        },
+        {
+          "name": "Stillmail",
+          "description": "Minimalist email app for friends to send digital letters. Focuses on a nostalgic, slow communication experience.",
+          "link": "https://www.producthunt.com/products/stillmail",
+          "rating": "3.5\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Consumer-focused niche app with limited business application."
+        }
+      ]
+    },
+    {
+      "date": "January 9, 2026",
+      "tools": [
+        {
+          "name": "Chirpz",
+          "description": "AI agent for literature discovery. Finds, prioritizes, reads, and cites academic papers, understanding context to surface unseen literature.",
+          "link": "https://chirpz.ai/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Accelerates research workflows and ensures comprehensive literature review."
+        },
+        {
+          "name": "Repo Prompt",
+          "description": "Automate assembling the perfect context for AI coding. Analyzes codebase to build token-efficient prompts for LLMs.",
+          "link": "https://repoprompt.com/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Optimizes AI coding efficiency by solving the context window and relevance problem."
+        },
+        {
+          "name": "Kuulto",
+          "description": "The terminal reimagined. A modern terminal that bridges classic CLI power with AI file organization and image conversion.",
+          "link": "https://www.producthunt.com/products/kuulto-the-terminal-reimagined",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "Modernizes the developer terminal experience with AI-native features."
+        },
+        {
+          "name": "Loki Build 2",
+          "description": "AI-native website builder that generates studio-grade landing pages. Offers full control in a real, live editor.",
+          "link": "https://loki.build/",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "businessValue": "High-quality, rapid landing page generation for marketing campaigns."
+        },
+        {
+          "name": "Capacity",
+          "description": "Create full-stack web applications in seconds. Defines apps with an AI co-founder before building.",
+          "link": "https://www.producthunt.com/products/capacity",
+          "rating": "4.0\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Rapid prototyping tool for full-stack apps."
+        },
+        {
+          "name": "Stillmail",
+          "description": "Minimalist email app for friends to send digital letters. Focuses on a nostalgic, slow communication experience.",
+          "link": "https://www.producthunt.com/products/stillmail",
+          "rating": "3.5\u2b50",
+          "category": "EVALUATE",
+          "businessValue": "Consumer-focused niche app with limited business application."
+        }
+      ]
+    },
+    {
+      "date": "January 2, 2026",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Community Figma MCP Server",
+            "rating": "4.5\u2b50",
+            "description": "Connects AI agents to Figma documents via MCP. Bridges the gap between design and AI.",
+            "businessValue": "Enables agents to read/write design data, automating design-to-code or design audit workflows.",
+            "productHuntUrl": "https://www.producthunt.com/products/community-figma-mcp-server",
+            "githubUrl": "https://github.com/antonytm/figma-mcp-server",
+            "pricing": "Open Source",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Radial",
+            "rating": "4\u2b50",
+            "description": "Modern pie menu for macOS. Productivity booster.",
+            "businessValue": "Individual productivity tool.",
+            "productHuntUrl": "https://www.producthunt.com/products/radial",
+            "pricing": "Paid",
+            "redFlags": "None"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "January 1, 2026",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Qwen3",
+            "rating": "5\u2b50",
+            "description": "\"Think Deeper or Act Faster\" - Qwen3 introduces a \"thinking budget\" to balance reasoning depth vs. speed. This is a significant architectural shift for open-source models.",
+            "businessValue": "Enables cost-effective, high-intelligence AI applications where you can tune the \"thought\" process for specific use cases.",
+            "productHuntUrl": "https://www.producthunt.com/products/qwen3",
+            "pricing": "Open Source",
+            "redFlags": "None"
+          },
+          {
+            "name": "Friendware",
+            "rating": "5\u2b50",
+            "description": "\"Tab-to-complete everywhere\" is a powerful productivity paradigm. If it works well, it's a massive time-saver.",
+            "businessValue": "Significant productivity boost for MacOS users across all applications.",
+            "productHuntUrl": "https://www.producthunt.com/products/friendware",
+            "websiteUrl": "https://friendware.net",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Supademo",
+            "rating": "4.5\u2b50",
+            "description": "\"Beautiful interactive demos and guides in seconds.\" Essential for SaaS GTM. Reduces friction in sales and onboarding by letting users \"try\" the product without signing up.",
+            "businessValue": "Increases conversion rates, shortens sales cycles, and reduces support tickets by providing clear, interactive walkthroughs.",
+            "productHuntUrl": "https://www.producthunt.com/products/supademo",
+            "websiteUrl": "https://supademo.com",
+            "pricing": "Freemium",
+            "redFlags": "None"
+          },
+          {
+            "name": "Stripo Email",
+            "rating": "4.5\u2b50",
+            "description": "Mature, feature-rich email editor. Essential for marketing teams needing high-quality, responsive emails.",
+            "businessValue": "Streamlines email creation, ensures compatibility across clients, and improves marketing campaign performance.",
+            "productHuntUrl": "https://www.producthunt.com/products/stripo-email",
+            "websiteUrl": "https://stripo.email",
+            "pricing": "Freemium",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Slite",
+            "rating": "4\u2b50",
+            "description": "\"Knowledge base on autopilot.\" AI-driven access to company info is great, but the knowledge base market is crowded (Notion, Slab, etc.). Evaluate if your current wiki is failing.",
+            "businessValue": "Reduces time spent searching for internal information, but switching costs for knowledge bases are high.",
+            "productHuntUrl": "https://www.producthunt.com/products/slite",
+            "websiteUrl": "https://slite.com",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Glitter 4",
+            "rating": "4\u2b50",
+            "description": "\"Turn any process into a step-by-step guide.\" Competes with Scribe and others. Good for documenting workflows quickly.",
+            "businessValue": "Streamlines SOP creation and employee training, but need to compare features/pricing with established competitors.",
+            "productHuntUrl": "https://www.producthunt.com/products/glitter-4",
+            "websiteUrl": "https://www.glitter.io/",
+            "pricing": "Freemium",
+            "redFlags": "None"
+          },
+          {
+            "name": "It's Hover",
+            "rating": "4\u2b50",
+            "description": "Interactive icons are cool, but check if they add real value or just visual flair.",
+            "businessValue": "Enhances UI interactivity, potentially improving user engagement, but impact may be marginal.",
+            "productHuntUrl": "https://www.producthunt.com/products/its-hover",
+            "websiteUrl": "https://hover.dev",
+            "pricing": "Unknown",
+            "redFlags": "None"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "January 1, 2026",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Friendware",
+            "rating": "5\u2b50",
+            "description": "\"Tab-to-complete everywhere\" is a powerful productivity paradigm. If it works well, it's a massive time-saver.",
+            "businessValue": "Significant productivity boost for MacOS users across all applications.",
+            "productHuntUrl": "https://www.producthunt.com/products/friendware",
+            "websiteUrl": "https://friendware.net",
+            "pricing": "Paid",
+            "redFlags": "None"
+          },
+          {
+            "name": "Stripo Email",
+            "rating": "4.5\u2b50",
+            "description": "Mature, feature-rich email editor. Essential for marketing teams needing high-quality, responsive emails.",
+            "businessValue": "Streamlines email creation, ensures compatibility across clients, and improves marketing campaign performance.",
+            "productHuntUrl": "https://www.producthunt.com/products/stripo-email",
+            "websiteUrl": "https://stripo.email",
+            "pricing": "Freemium",
+            "redFlags": "None"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "It's Hover",
+            "rating": "4\u2b50",
+            "description": "Interactive icons are cool, but check if they add real value or just visual flair.",
+            "businessValue": "Enhances UI interactivity, potentially improving user engagement, but impact may be marginal.",
+            "productHuntUrl": "https://www.producthunt.com/products/its-hover",
+            "websiteUrl": "https://hover.dev",
+            "pricing": "Unknown",
+            "redFlags": "None"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "December 23, 2025",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Extract by Firecrawl",
+            "description": "Turn entire websites into LLM-ready structured data. Best-in-class tool for data ingestion, essential for building robust RAG applications and data pipelines.",
+            "rating": "5\u2b50",
+            "github": "https://github.com/firecrawl/firecrawl",
+            "website": "https://www.firecrawl.dev/",
+            "pricing": "Free tier available"
+          },
+          {
+            "name": "GuideIt",
+            "description": "Brand guidelines generator for Adobe Illustrator. Automates the creation of professional brand guides from logos/fonts. Massive time-saver for design teams ensuring GTM consistency.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://www.akrivi.io/guideit",
+            "pricing": "Paid"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Aident AI",
+            "description": "Agentic automation editor that turns natural language into working automations. Evaluate reliability for replacing complex manual business workflows.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://aident.ai/",
+            "pricing": "Free tier available"
+          },
+          {
+            "name": "Loki Build 2",
+            "description": "AI-native website builder for studio-grade landing pages. Evaluate flexibility and code export quality compared to custom dev for GTM pages.",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://loki.build/",
+            "pricing": "Free tier available"
+          },
+          {
+            "name": "HQ0",
+            "description": "Host meetings on your own website domain instead of Zoom/Teams. Strong branding move for client-facing GTM calls. Evaluate video stability.",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://hq0.com/",
+            "pricing": "Paid"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "December 18, 2025",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Netlify",
+            "description": "The composable web platform for modern sites and stores. Industry standard for deploying high-performance GTM landing pages with continuous deployment, serverless functions, and global edge network.",
+            "rating": "5\u2b50",
+            "github": "",
+            "website": "https://www.netlify.com/",
+            "pricing": "Free tier available"
+          },
+          {
+            "name": "Replicate",
+            "description": "Run and fine-tune open-source AI models with a single line of code. Essential infrastructure for scaling AI features in your product without managing GPU clusters.",
+            "rating": "5\u2b50",
+            "github": "https://github.com/replicate",
+            "website": "https://replicate.com/",
+            "pricing": "Pay-per-second"
+          },
+          {
+            "name": "Screenhance",
+            "description": "Turn screenshots into professional, share-ready visuals and mockups instantly. Critical for creating polished product assets for GTM launch materials, social media, and landing pages without design skills.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://screenhance.com/",
+            "pricing": "Free"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "TimeTuna (Bookva)",
+            "description": "Beautiful, branded scheduling pages designed to be a better-looking alternative to Calendly. Evaluate if brand aesthetics are a priority for sales calls and client meetings.",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://timetuna.com/",
+            "pricing": "Free options available"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "December 10, 2025",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "Incredible",
+            "description": "Create AI agents that work 24/7, cost 90% less, and don't hallucinate on data\u2014powered by Agent MAX. Automate daily repetitive tasks with the world's most advanced AI agent engine built for autonomous work. Hundreds of integrations. 90% cheaper. Near-zero hallucinations. 100x memory.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://incredible.one",
+            "pricing": "Free tier available"
+          },
+          {
+            "name": "Vybe",
+            "description": "Vybe turns natural language into secure, production-ready internal apps that connect to your real data. No long backlogs, no glue code, no fragile prototypes. Auth, roles and deployments are built in. Plug in Postgres, Salesforce, Jira and 3,000+ integrations. Y Combinator backed with $10M seed funding.",
+            "rating": "4.5\u2b50",
+            "github": "",
+            "website": "https://vybe.build",
+            "pricing": "Free options available"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "HERO",
+            "description": "Collaborative workspaces for serious work, combining the flexibility of text, the structure of databases, and the power of integrations. Designed for teams working on formal, structured documents like legal contracts, technical specs, SOPs, and policies. HERO dynamically interconnects files, sections, terms, and data with lightning-fast search for 10-10,000 documents.",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://myhero.so",
+            "pricing": "Free options available"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "December 2, 2025",
+      "categories": {
+        "IMMEDIATE ADOPTION": [
+          {
+            "name": "VibeCode DB",
+            "description": "Frontend database API gateway with unified type-safe interface for SQLite, Supabase, PostgreSQL, and REST APIs",
+            "rating": "5\u2b50",
+            "github": "https://www.producthunt.com/products/vibecode-db",
+            "website": "https://vibecode-db.geekyants.com",
+            "pricing": "Free"
+          }
+        ],
+        "EVALUATE": [
+          {
+            "name": "Shipper.now",
+            "description": "Full-stack app builder with AI Advisor that suggests next development steps - $1.1k+ MRR after 1 month",
+            "rating": "4\u2b50",
+            "github": "",
+            "website": "https://shipper.now",
+            "pricing": "Payment Required"
+          }
+        ],
+        "AVOID": []
+      }
+    },
+    {
+      "date": "November 21, 2025",
+      "tools": [
+        {
+          "name": "Lamatic.ai",
+          "rating": "5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "AI middleware for building agents visually, deploying on serverless, with continuous optimization",
+          "businessValue": "Bridges gap between domain experts and engineers with visual builder + production deployment + real-time optimization",
+          "productHuntUrl": "https://www.producthunt.com/products/lamatic-ai",
+          "websiteUrl": "https://lamatic.ai",
+          "githubUrl": "",
+          "pricing": "Free options, 50% off first 3 months",
+          "redFlags": "None"
+        },
+        {
+          "name": "Browser Cash",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Browser automation platform running real browsers on real devices for AI agents and web scraping",
+          "businessValue": "Eliminates CAPTCHA and antibot issues through distributed browser network - future-proof automation",
+          "productHuntUrl": "https://www.producthunt.com/products/browser-cash",
+          "websiteUrl": "https://browser.cash",
+          "githubUrl": "",
+          "pricing": "Free tier with $25 credits",
+          "redFlags": "None"
+        },
+        {
+          "name": "Antigravity for Raycast",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Keyboard-first control for Google Antigravity IDE via Raycast extension",
+          "businessValue": "Saves 15-30 seconds per project switch, maintains keyboard flow for Antigravity users",
+          "productHuntUrl": "https://www.producthunt.com/products/antigravity-for-raycast",
+          "websiteUrl": "",
+          "githubUrl": "https://github.com/CarlKho-Minerva/antigravity_raycast",
+          "pricing": "Free",
+          "redFlags": "Requires both Raycast and Antigravity IDE"
+        }
+      ]
+    },
+    {
+      "date": "November 20, 2025",
+      "tools": [
+        {
+          "name": "Paraflow",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "Canvas-based design product agent with AI PM and designer collaboration",
+          "businessValue": "Streamlines product spec creation, bridges ideas to code with structured PRDs and prototypes",
+          "productHuntUrl": "https://paraflow.com/?ref=producthunt",
+          "websiteUrl": "https://paraflow.com",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        },
+        {
+          "name": "YourGPT",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "AI-first platform for customer support, sales, and automation with intelligent agents",
+          "businessValue": "Elevates customer support and boosts sales with AI automation",
+          "productHuntUrl": "https://yourgpt.ai/?ref=producthunt",
+          "websiteUrl": "https://yourgpt.ai",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        },
+        {
+          "name": "Reindeer",
+          "rating": "4.5\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Cursor for Databases - understands schema, generates production SQL, autocompletes in IDE",
+          "businessValue": "Dramatically speeds up database work, reduces SQL errors, works within existing IDE workflow",
+          "productHuntUrl": "https://tryreindeer.com/?ref=producthunt",
+          "websiteUrl": "https://tryreindeer.com",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        },
+        {
+          "name": "Dimension",
+          "rating": "3\u2b50",
+          "category": "EVALUATE",
+          "description": "Proactive multi-app assistant",
+          "businessValue": "Cross-app automation and assistance",
+          "productHuntUrl": "https://www.producthunt.com/products/dimension-2",
+          "websiteUrl": "",
+          "pricing": "Unknown",
+          "redFlags": "Limited information available"
+        },
+        {
+          "name": "Guideflow",
+          "rating": "4\u2b50",
+          "category": "EVALUATE",
+          "description": "AI demo platform for creating interactive product demonstrations",
+          "businessValue": "Improves sales and onboarding with AI-powered product demos",
+          "productHuntUrl": "https://www.guideflow.com/?ref=producthunt",
+          "websiteUrl": "https://www.guideflow.com",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        }
+      ]
+    }
+  ],
+  "deepDives": [
+    {
+      "id": "claude-code-hooks",
+      "title": "Claude Code Hooks: Self-Validating Agents",
+      "date": "January 19, 2026",
+      "summary": "A deep dive into the new 'Hooks' and 'Slash Commands' features in Claude Code, enabling developers to build specialized, self-validating agents inside their codebase.",
+      "contentPath": "/deep-dives/claude-code-hooks",
+      "videoUrl": "https://youtu.be/u5GkG71PkR0?si=rPIFDAAYi3w79MEy"
+    },
+    {
+      "id": "thesys-c1",
+      "title": "Thesys (C1): The Generative UI Middleware",
+      "date": "December 24, 2025",
+      "summary": "Turn LLM text responses into interactive UI components (charts, forms) in real-time. The missing link for rich AI agents.",
+      "contentPath": "/deep-dives/thesys-c1"
+    }
+  ],
+  "todayRecommendations": [
+    {
+      "name": "Lamatic.ai",
+      "rating": "5\u2b50",
+      "category": "IMMEDIATE ADOPTION",
+      "description": "AI middleware for building agents visually, deploying on serverless, with continuous optimization",
+      "businessValue": "Bridges gap between domain experts and engineers with visual builder + production deployment + real-time optimization",
+      "websiteUrl": "https://lamatic.ai",
+      "githubUrl": "",
+      "redFlags": "None"
+    },
+    {
+      "name": "Browser Cash",
+      "rating": "4.5\u2b50",
+      "category": "IMMEDIATE ADOPTION",
+      "description": "Browser automation platform running real browsers on real devices for AI agents and web scraping",
+      "businessValue": "Eliminates CAPTCHA and antibot issues through distributed browser network - future-proof automation",
+      "websiteUrl": "https://browser.cash",
+      "githubUrl": "",
+      "redFlags": "None"
+    },
+    {
+      "name": "Radon IDE",
+      "rating": "4.5\u2b50",
+      "category": "IMMEDIATE ADOPTION",
+      "description": "VSCode/Cursor extension that transforms your editor into a full-featured IDE for React Native and Expo",
+      "businessValue": "Dramatically improves React Native development workflow with integrated simulator, debugger, component inspector",
+      "githubUrl": "https://github.com/software-mansion/radon-ide",
+      "websiteUrl": "https://ide.swmansion.com/",
+      "redFlags": "None"
+    },
+    {
+      "name": "MCP Toolbox for Databases",
+      "rating": "4.5\u2b50",
+      "category": "IMMEDIATE ADOPTION",
+      "description": "Cross-platform server enabling GenAI agents to securely access databases with performant SQL queries",
+      "businessValue": "Bridges LLM orchestration frameworks (LangChain, LlamaIndex) with databases through simple configuration",
+      "githubUrl": "https://github.com/googleapis/genai-toolbox",
+      "websiteUrl": "",
+      "redFlags": "None"
+    },
+    {
+      "name": "Valdi",
+      "rating": "4.5\u2b50",
+      "category": "IMMEDIATE ADOPTION",
+      "description": "Cross-platform native UI framework compiling TypeScript/TSX directly to native views on iOS, Android, macOS",
+      "businessValue": "Combines web development velocity with native performance - battle-tested in Snapchat for 8+ years",
+      "githubUrl": "https://github.com/Snapchat/Valdi",
+      "websiteUrl": "",
+      "redFlags": "None"
+    },
+    {
+      "name": "TrendRadar",
+      "rating": "4\u2b50",
+      "category": "EVALUATE",
+      "description": "Real-time multi-platform news-trend analyzer aggregating from 35+ platforms with AI analysis",
+      "businessValue": "Automates trend tracking with sentiment analysis and multi-channel notifications",
+      "githubUrl": "https://github.com/sansan0/TrendRadar",
+      "websiteUrl": "https://trendradar.app/",
+      "redFlags": "GPL-3.0 license requires derivative works to be open source"
+    }
+  ],
+  "additions": [
+    {
+      "name": "Notto",
+      "rating": "4.5\u2b50",
+      "description": "An invisible AI overlay for desktop that allows users to capture notes, dictate text, and chat with AI in any application without context switching.",
+      "businessValue": "Reduces friction in workflows by bringing AI directly into the active context.",
+      "githubUrl": "",
+      "websiteUrl": "https://usenotto.com/",
+      "redFlags": "None"
+    },
+    {
+      "name": "Binary",
+      "rating": "4.0\u2b50",
+      "description": "An AI-powered hiring tool that streamlines the application process for startups. Uses AI to pre-tag and review candidates quickly.",
+      "businessValue": "Potentially speeds up hiring for small teams, but needs evaluation against established ATS solutions.",
+      "githubUrl": "",
+      "websiteUrl": "https://binary.so/",
+      "redFlags": "None"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Snaply AI",
+      "rating": "4.0\u2b50",
+      "description": "A privacy-focused macOS tool for on-device voice dictation, real-time grammar fixes, and translation.",
+      "businessValue": "Good for Mac-heavy workflows requiring privacy, but competes with built-in OS features.",
+      "githubUrl": "",
+      "websiteUrl": "https://snaply.ai/",
+      "redFlags": "None"
+    },
+    {
+      "name": "Simpl",
+      "rating": "4.0\u2b50",
+      "description": "A local-first, user-friendly database browser for PostgreSQL. Allows exploring data without writing SQL.",
+      "businessValue": "Great for non-technical team members or quick data checks.",
+      "githubUrl": "",
+      "websiteUrl": "https://www.simpl.sh/",
+      "redFlags": "None"
+    },
+    {
+      "name": "Ekomoira",
+      "rating": "4.0\u2b50",
+      "description": "An MCP server that connects Google Search Console to AI tools like Claude and Cursor, allowing natural language queries about SEO performance.",
+      "businessValue": "Streamlines SEO analysis for developers and marketers using AI workflows.",
+      "githubUrl": "",
+      "websiteUrl": "https://www.ekamoira.com/tools/gsc",
+      "redFlags": "None"
+    }
+  ],
+  "todaysRecommendations": [
+    {
+      "name": "daily.dev",
+      "rating": "4.8\u2b50",
+      "description": "The homepage every developer deserves. A professional network and news aggregator that keeps developers updated with the latest tools, trends, and articles. Now launching 'daily.dev Recruiter' to connect companies with passive talent.",
+      "businessValue": "Essential for developers to stay ahead of the curve. The new recruiting feature opens a high-quality channel for hiring technical talent.",
+      "githubUrl": "https://github.com/dailydotdev/daily",
+      "websiteUrl": "https://daily.dev/",
+      "redFlags": "None"
+    },
+    {
+      "name": "InteractPitch",
+      "rating": "4.5\u2b50",
+      "description": "Turns static pitch decks into interactive experiences with an AI avatar that guides investors through the slides. Provides real-time insights into viewer engagement and questions.",
+      "businessValue": "Transforms the fundraising process by providing actionable data on investor interest before the first meeting.",
+      "githubUrl": "",
+      "websiteUrl": "https://interactpitch.ai/",
+      "redFlags": "None"
+    },
+    {
+      "name": "Sled",
+      "rating": "4.5\u2b50",
+      "description": "A voice-first interface for running local coding agents (like Claude Code) from your phone. Allows you to step away from the desk while keeping the agent working.",
+      "businessValue": "Increases developer productivity by enabling 'mobile' supervision of long-running coding tasks.",
+      "githubUrl": "https://github.com/layercodedev/sled",
+      "websiteUrl": "https://sled.layercode.com/",
+      "redFlags": "None"
+    },
+    {
+      "name": "Colloqio",
+      "rating": "4.5\u2b50",
+      "description": "A 100% on-device, private AI companion that runs offline. It remembers conversations and preferences without sending data to the cloud.",
+      "businessValue": "Perfect for privacy-conscious users who need an AI assistant that guarantees data sovereignty.",
+      "githubUrl": "",
+      "websiteUrl": "https://colloqio.app/",
+      "redFlags": "None"
+    },
+    {
+      "name": "Vellum",
+      "rating": "4.5\u2b50",
+      "description": "An enterprise platform for building, testing, and deploying AI agents and workflows. Provides tools for prompt engineering, evaluation, and version control.",
+      "businessValue": "Critical infrastructure for companies building production-grade AI applications.",
+      "githubUrl": "",
+      "websiteUrl": "https://www.vellum.ai/",
+      "redFlags": "None"
+    }
+  ]
+}

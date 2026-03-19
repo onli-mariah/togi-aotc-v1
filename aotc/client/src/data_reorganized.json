@@ -1,0 +1,993 @@
+{
+  "currentStack": {
+    "annual": {
+      "Large Language Models": [
+        {
+          "name": "Anthropic",
+          "description": "LLM",
+          "cost": "$200/year",
+          "account": "mylogin",
+          "payment": "Link by Stripe",
+          "nextPayment": "Dec 3, 2025",
+          "notes": "PRO Plan",
+          "url": "https://anthropic.com"
+        }
+      ],
+      "Documentation & Organization": [
+        {
+          "name": "Craftdocs",
+          "description": "Document creation and organization",
+          "cost": "$180/year",
+          "account": "mariah@theonlicorp",
+          "payment": "",
+          "nextPayment": "Jul 19, 2026",
+          "notes": "Onli Corp",
+          "url": "https://craftdocs.com"
+        }
+      ],
+      "AI Development & Code": [
+        {
+          "name": "Cursor",
+          "description": "Smart code editor and terminal",
+          "cost": "$192/year",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "nextPayment": "Mar 19, 2026",
+          "notes": "",
+          "url": "https://cursor.sh"
+        },
+        {
+          "name": "Github",
+          "description": "Code repository",
+          "cost": "$48/year",
+          "account": "onlisyn2025",
+          "payment": "MC -3626",
+          "nextPayment": "May 29, 2026",
+          "notes": "",
+          "url": "https://github.com"
+        }
+      ],
+      "Image Generation & Design": [
+        {
+          "name": "Higgsfield",
+          "description": "Image/Video Gen",
+          "cost": "$108/year",
+          "account": "mylogin",
+          "payment": "MC -6175",
+          "nextPayment": "April 29, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Pixelbuddha.net",
+          "description": "Graphic design resources",
+          "cost": "$120/year",
+          "account": "mylogin",
+          "payment": "",
+          "nextPayment": "July 10, 2026",
+          "notes": "",
+          "url": "https://pixelbuddha.net"
+        }
+      ],
+      "Video Generation & Editing": [
+        {
+          "name": "LTX Studio",
+          "description": "Define Motion with Keyframes",
+          "cost": "$336/year",
+          "account": "mylogin",
+          "payment": "UNKNOWN",
+          "nextPayment": "May 18, 2026",
+          "notes": "",
+          "url": ""
+        }
+      ],
+      "Cloud Infrastructure & Hosting": [
+        {
+          "name": "Vercel - Domains",
+          "description": "Domain manager",
+          "cost": "$140/2-year",
+          "account": "onlisyn@icloud",
+          "payment": "Disc -8992",
+          "nextPayment": "May 28, 2027",
+          "notes": "naturalspirituality.ai",
+          "url": "https://vercel.com"
+        }
+      ]
+    },
+    "monthly": {
+      "Cloud Infrastructure & Hosting": [
+        {
+          "name": "Google One Ultra",
+          "description": "Cloud storage",
+          "cost": "$250/mo",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "nextPayment": "1",
+          "notes": "",
+          "url": "https://one.google.com"
+        },
+        {
+          "name": "Vercel - Neon",
+          "description": "Cloud application development",
+          "cost": "$20/mo",
+          "account": "onlisyn@icloud",
+          "payment": "Disc -8992",
+          "nextPayment": "6",
+          "notes": "",
+          "url": "https://vercel.com"
+        },
+        {
+          "name": "Supabase",
+          "description": "Vector storage",
+          "cost": "$25/mo",
+          "account": "Github",
+          "payment": "MC -6175",
+          "nextPayment": "8",
+          "notes": "",
+          "url": "https://supabase.com"
+        },
+        {
+          "name": "Fly.io",
+          "description": "Application deployments - public cloud",
+          "cost": "$20/mo",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "nextPayment": "12",
+          "notes": "",
+          "url": "https://fly.io"
+        }
+      ],
+      "Image Generation & Design": [
+        {
+          "name": "Krea.ai",
+          "description": "Image/Video Gen - Illustrated Headshots",
+          "cost": "$35/mo",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "nextPayment": "7",
+          "notes": "",
+          "url": "https://krea.ai"
+        },
+        {
+          "name": "Adobe",
+          "description": "Creative tools",
+          "cost": "$60/mo",
+          "account": "doc@musictray",
+          "payment": "Disc -8992",
+          "nextPayment": "14",
+          "notes": "",
+          "url": "https://adobe.com"
+        },
+        {
+          "name": "MagicPath",
+          "description": "AI-powered design tool",
+          "cost": "$20/mo",
+          "account": "onlisyn2025",
+          "payment": "CapOne -5829",
+          "nextPayment": "15",
+          "notes": "Asked to keep - delete?",
+          "url": ""
+        }
+      ],
+      "Large Language Models": [
+        {
+          "name": "OpenAI",
+          "description": "LLM",
+          "cost": "$20/mo",
+          "account": "onlisyn2025",
+          "payment": "Apple Sub",
+          "nextPayment": "9",
+          "notes": "",
+          "url": "https://openai.com"
+        },
+        {
+          "name": "Anthropic",
+          "description": "LLM",
+          "cost": "$100/mo",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "nextPayment": "13",
+          "notes": "MAX Plan",
+          "url": "https://anthropic.com"
+        },
+        {
+          "name": "OpenAI",
+          "description": "LLM",
+          "cost": "$200/mo",
+          "account": "onlisyn@icloud",
+          "payment": "MC -6175",
+          "nextPayment": "28",
+          "notes": "",
+          "url": "https://openai.com"
+        },
+        {
+          "name": "OpenAI",
+          "description": "LLM",
+          "cost": "$20/mo",
+          "account": "mylogin",
+          "payment": "MC -6175",
+          "nextPayment": "31",
+          "notes": "",
+          "url": "https://openai.com"
+        }
+      ],
+      "AI Voice & Audio": [
+        {
+          "name": "ElevenLabs",
+          "description": "AI Voice Generation",
+          "cost": "$22/mo",
+          "account": "onlisyn2025",
+          "payment": "Disc -8992",
+          "nextPayment": "11",
+          "notes": "",
+          "url": "https://elevenlabs.io"
+        },
+        {
+          "name": "ElevenLabs",
+          "description": "AI Voice Generation",
+          "cost": "$5/mo",
+          "account": "mylogin",
+          "payment": "MC -6175",
+          "nextPayment": "24",
+          "notes": "",
+          "url": "https://elevenlabs.io"
+        }
+      ],
+      "AI Development & Code": [
+        {
+          "name": "Warp",
+          "description": "Smart Terminal",
+          "cost": "$60/mo",
+          "account": "onlisyn2025",
+          "payment": "CapOne -5829",
+          "nextPayment": "14",
+          "notes": "",
+          "url": "https://warp.dev"
+        },
+        {
+          "name": "Builder.io",
+          "description": "Visual development platform",
+          "cost": "$30/mo",
+          "account": "onlisyn2025",
+          "payment": "Disc -8992",
+          "nextPayment": "24",
+          "notes": "",
+          "url": "https://builder.io"
+        },
+        {
+          "name": "Alex Inc",
+          "description": "XCode AI Coding Assistant",
+          "cost": "$20/mo",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "nextPayment": "26",
+          "notes": "",
+          "url": ""
+        }
+      ]
+    },
+    "pyg": {
+      "Large Language Models": [
+        {
+          "name": "Anthropic",
+          "description": "LLM",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "expires": "",
+          "notes": "MAX Plan",
+          "url": "https://anthropic.com"
+        }
+      ],
+      "AI Development & Code": [
+        {
+          "name": "Alex Inc",
+          "description": "XCode AI Coding Assistant",
+          "account": "onlisyn2025",
+          "payment": "Mercury",
+          "expires": "N/A",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Warp",
+          "description": "Smart Terminal",
+          "account": "onlisyn2025",
+          "payment": "CapOne -5829",
+          "expires": "",
+          "notes": "",
+          "url": "https://warp.dev"
+        }
+      ],
+      "Video Generation & Editing": [
+        {
+          "name": "Captions.ai",
+          "description": "Talking video generation",
+          "account": "mylogin",
+          "payment": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Diffus",
+          "description": "Diffusion image and video generation",
+          "account": "mylogin",
+          "payment": "",
+          "expires": "12/08/2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Wavespeed",
+          "description": "Video + image gen",
+          "account": "onlisyn2025",
+          "payment": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        }
+      ],
+      "Cloud Infrastructure & Hosting": [
+        {
+          "name": "Digital Ocean",
+          "description": "Cloud infrastructure",
+          "account": "Github",
+          "payment": "MC -6175",
+          "expires": "",
+          "notes": "$200 credit",
+          "url": "https://digitalocean.com"
+        },
+        {
+          "name": "Fly.io",
+          "description": "Application deployments - public cloud",
+          "account": "onlisyn2025",
+          "payment": "MC -6175",
+          "expires": "Nov 12, 2025",
+          "notes": "",
+          "url": "https://fly.io"
+        },
+        {
+          "name": "Supabase",
+          "description": "Vector storage",
+          "account": "Github",
+          "payment": "",
+          "expires": "Oct 08, 2025",
+          "notes": "",
+          "url": "https://supabase.com"
+        },
+        {
+          "name": "Vercel - Upstash",
+          "description": "Cloud application development",
+          "account": "onlisyn@icloud",
+          "payment": "Disc -8992",
+          "expires": "",
+          "notes": "",
+          "url": "https://vercel.com"
+        }
+      ],
+      "Development Tools & APIs": [
+        {
+          "name": "Fal AI",
+          "description": "GenAI API's",
+          "account": "onlisyn2025",
+          "payment": "",
+          "expires": "N/A",
+          "notes": "",
+          "url": "https://fal.ai"
+        }
+      ],
+      "Image Generation & Design": [
+        {
+          "name": "Hedra",
+          "description": "Image Gen - Fighter/Uniform",
+          "account": "onlisyn2025",
+          "payment": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Higgsfield",
+          "description": "Image/Video Gen",
+          "account": "mylogin",
+          "payment": "MC -6175",
+          "expires": "April 29, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Insmind",
+          "description": "AI Photo Editing",
+          "account": "mylogin",
+          "payment": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        }
+      ]
+    },
+    "unpaid": {
+      "Large Language Models": [
+        {
+          "name": "Abacus.ai",
+          "description": "Multi LLM",
+          "account": "onlisyn2025",
+          "prevCost": "$10/mo",
+          "expires": "Oct 19, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "OpenAI",
+          "description": "LLM",
+          "account": "naturalspirituality@gmail",
+          "prevCost": "$20/mo",
+          "expires": "Oct 30, 2025",
+          "notes": "Need Login info",
+          "url": "https://openai.com"
+        },
+        {
+          "name": "Venice",
+          "description": "LLM Agent",
+          "account": "mylogin",
+          "prevCost": "$18/mo",
+          "expires": "Oct 16, 2025",
+          "notes": "",
+          "url": ""
+        }
+      ],
+      "Image Generation & Design": [
+        {
+          "name": "Arcanalabs.ai",
+          "description": "AI Production Studio - Photo + Video Gen",
+          "account": "mylogin",
+          "prevCost": "$29/mo",
+          "expires": "Oct 13, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "DZine",
+          "description": "AI Image + Design",
+          "account": "onlisyn2025",
+          "prevCost": "$60/mo",
+          "expires": "10/14/2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Loveart AI",
+          "description": "Branding image gen",
+          "account": "onlisyn2025",
+          "prevCost": "$180",
+          "expires": "July 25, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Magnific Ai",
+          "description": "Image scaler and enhancer",
+          "account": "mylogin",
+          "prevCost": "$40/mo",
+          "expires": "Oct 12, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Mimic PC",
+          "description": "Open source AI generation platform",
+          "account": "mylogin",
+          "prevCost": "$124/year",
+          "expires": "April 16, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Nextdiffusion AI",
+          "description": "TOPLESS image generator",
+          "account": "mylogin",
+          "prevCost": "$150/year",
+          "expires": "April 27, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "NIM AI",
+          "description": "Image generator",
+          "account": "onlisyn2025",
+          "prevCost": "$240/year",
+          "expires": "March 3, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Onlook",
+          "description": "Cursor for Designers",
+          "account": "onlisyn2025",
+          "prevCost": "$0",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Pixflow",
+          "description": "Motion design, animation + content creation",
+          "account": "mylogin",
+          "prevCost": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Prone AI",
+          "description": "Image + video gen",
+          "account": "onlisyn2025",
+          "prevCost": "$295/year",
+          "expires": "April 17, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Recraft",
+          "description": "AI for designers - image gen",
+          "account": "onlisyn2025",
+          "prevCost": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Shakker",
+          "description": "Image and Video gen (uncensored)",
+          "account": "mylogin",
+          "prevCost": "$288/year",
+          "expires": "March 07, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Spline",
+          "description": "3D Image Rendering",
+          "account": "mariah@onli.one",
+          "prevCost": "$15/mo",
+          "expires": "Nov 02, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "UX Pilot AI",
+          "description": "UX/UI Design",
+          "account": "mylogin",
+          "prevCost": "$29/mo",
+          "expires": "August 08, 2025",
+          "notes": "",
+          "url": ""
+        }
+      ],
+      "Documentation & Organization": [
+        {
+          "name": "Chroniclehq.com",
+          "description": "Smart presentation creator",
+          "account": "onlisyn@icloud",
+          "prevCost": "$0",
+          "expires": "Oct 26, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Craftdocs",
+          "description": "",
+          "account": "doc@onli",
+          "prevCost": "$0",
+          "expires": "",
+          "notes": "AZC Files",
+          "url": "https://craftdocs.com"
+        },
+        {
+          "name": "Craftdocs",
+          "description": "",
+          "account": "doc@theonli",
+          "prevCost": "$0",
+          "expires": "",
+          "notes": "Onli Corp Workspace account",
+          "url": "https://craftdocs.com"
+        },
+        {
+          "name": "Craftdocs",
+          "description": "Document creation and organization",
+          "account": "onlisyn2025",
+          "prevCost": "$60/mo",
+          "expires": "Oct 6, 2025",
+          "notes": "N\u00f8gen Dev Office - Not Needed",
+          "url": "https://craftdocs.com"
+        }
+      ],
+      "Cloud Infrastructure & Hosting": [
+        {
+          "name": "Cloudflare",
+          "description": "",
+          "account": "mariah@theonlicorp",
+          "prevCost": "",
+          "expires": "",
+          "notes": "",
+          "url": "https://cloudflare.com"
+        }
+      ],
+      "Presentation & Communication": [
+        {
+          "name": "Genspark AI",
+          "description": "Super Agent",
+          "account": "onlisyn2025",
+          "prevCost": "$240/year",
+          "expires": "June 26, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Limitless",
+          "description": "AI pendant transcriber",
+          "account": "onlisyn2025",
+          "prevCost": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Patreon",
+          "description": "Content creator marketplace",
+          "account": "onlisyn2025",
+          "prevCost": "$24/mo",
+          "expires": "Aug 17, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Perplexity AI",
+          "description": "LLM/Browser",
+          "account": "mylogin",
+          "prevCost": "$200/year",
+          "expires": "July 05, 2026",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Webflow",
+          "description": "Visual website builder",
+          "account": "dhrylanton@gmail.com",
+          "prevCost": "$88 + $24/mo",
+          "expires": "Nov 19, 2025",
+          "notes": "",
+          "url": "https://webflow.com"
+        }
+      ],
+      "Video Generation & Editing": [
+        {
+          "name": "Hailou AI",
+          "description": "Video gen",
+          "account": "onlisyn2025",
+          "prevCost": "",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Heygen Technology",
+          "description": "AI Spokesperson Video Gen",
+          "account": "onlisyn2025",
+          "prevCost": "$29/mo",
+          "expires": "Oct 05, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Luma",
+          "description": "Video Generator",
+          "account": "onlisyn2025",
+          "prevCost": "$30",
+          "expires": "Oct 30, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Runway AI",
+          "description": "Video generation",
+          "account": "onlisyn2025",
+          "prevCost": "$144/year",
+          "expires": "Oct 01, 2026",
+          "notes": "Recently used + purchased",
+          "url": ""
+        },
+        {
+          "name": "TopazLabs",
+          "description": "Video + Image gen",
+          "account": "onlisyn2025",
+          "prevCost": "$50/mo",
+          "expires": "Aug 13, 2025",
+          "notes": "",
+          "url": ""
+        }
+      ],
+      "AI Voice & Audio": [
+        {
+          "name": "Hume AI",
+          "description": "Realistic Voice AI",
+          "account": "onlisyn2025",
+          "prevCost": "$14/mo",
+          "expires": "Oct 12, 2025",
+          "notes": "",
+          "url": ""
+        }
+      ],
+      "Development Tools & APIs": [
+        {
+          "name": "Leap.New",
+          "description": "AI fullstack development",
+          "account": "onlisyn2025",
+          "prevCost": "$30-$300/mo",
+          "expires": "Dec 8, 2025",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "Same.new",
+          "description": "Application prototyping + website cloning",
+          "account": "onlisyn2025",
+          "prevCost": "$10/mo",
+          "expires": "",
+          "notes": "",
+          "url": ""
+        },
+        {
+          "name": "VectorShift",
+          "description": "API",
+          "account": "onlisyn2025",
+          "prevCost": "$240/year",
+          "expires": "Feb 21, 2026",
+          "notes": "",
+          "url": ""
+        }
+      ],
+      "Other": [
+        {
+          "name": "Modelo",
+          "description": "3D Model viewer and editor",
+          "account": "mylogin",
+          "prevCost": "",
+          "expires": "Oct 16, 2025",
+          "notes": "",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "workflows": [
+    {
+      "name": "AI Content Generation Pipeline",
+      "description": "End-to-end workflow for creating AI-generated visual and video content",
+      "tools": [
+        "Cursor",
+        "Anthropic Claude",
+        "OpenAI",
+        "Krea.ai",
+        "Higgsfield",
+        "LTX Studio",
+        "ElevenLabs"
+      ],
+      "steps": [
+        "Ideate and plan content using Claude/GPT",
+        "Generate images with Krea.ai or Higgsfield",
+        "Create video sequences with LTX Studio",
+        "Add AI voiceover with ElevenLabs",
+        "Code automation scripts in Cursor"
+      ]
+    },
+    {
+      "name": "Full-Stack Development Workflow",
+      "description": "Complete development pipeline from code to deployment",
+      "tools": [
+        "Cursor",
+        "Github",
+        "Warp",
+        "Vercel",
+        "Supabase",
+        "Fly.io"
+      ],
+      "steps": [
+        "Write code in Cursor with AI assistance",
+        "Version control with Github",
+        "Terminal operations in Warp",
+        "Database management with Supabase",
+        "Deploy to Vercel or Fly.io"
+      ]
+    },
+    {
+      "name": "Design & Prototyping Workflow",
+      "description": "From concept to interactive prototype",
+      "tools": [
+        "Adobe",
+        "Builder.io",
+        "MagicPath",
+        "Pixelbuddha",
+        "Spline"
+      ],
+      "steps": [
+        "Design assets in Adobe Creative Cloud",
+        "Source design resources from Pixelbuddha",
+        "Create 3D elements with Spline",
+        "Build interactive prototypes with Builder.io",
+        "AI-powered design iterations with MagicPath"
+      ]
+    },
+    {
+      "name": "Documentation & Knowledge Management",
+      "description": "Organize and share team knowledge",
+      "tools": [
+        "Craftdocs",
+        "Google One Ultra",
+        "Github"
+      ],
+      "steps": [
+        "Create structured docs in Craftdocs",
+        "Store files in Google One Ultra",
+        "Version control documentation in Github",
+        "Share with team via cloud storage"
+      ]
+    }
+  ],
+  "manuagi": [
+    {
+      "date": "2025-11-20",
+      "videoUrl": "https://www.youtube.com/watch?v=0pn1Hx1xPPQ",
+      "videoTitle": "Top 7 Open Source Dev Tools",
+      "tools": [
+        {
+          "name": "Cognee",
+          "rating": "\u2b50\u2b50\u2b50\u2b50\u00bd",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "AI agent memory platform combining knowledge graphs with vector search",
+          "businessValue": "Reduces AI development complexity, improves agent accuracy",
+          "githubUrl": "https://github.com/topoteretes/cognee",
+          "websiteUrl": "https://www.cognee.ai/",
+          "stars": "8.9k",
+          "license": "Apache 2.0",
+          "redFlags": "None"
+        },
+        {
+          "name": "Lima",
+          "rating": "\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Linux VMs for macOS - CNCF incubating project",
+          "businessValue": "Essential for macOS dev teams, free VM alternative",
+          "githubUrl": "https://github.com/lima-vm/lima",
+          "websiteUrl": "https://lima-vm.io/",
+          "stars": "19.2k",
+          "license": "Apache 2.0",
+          "redFlags": "398 open issues (normal for CNCF)"
+        },
+        {
+          "name": "Finicky",
+          "rating": "\u2b50\u2b50\u2b50\u2b50\u00bd",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Smart browser router for macOS",
+          "businessValue": "High productivity for multi-browser workflows",
+          "githubUrl": "https://github.com/johnste/finicky",
+          "websiteUrl": "",
+          "stars": "4.4k",
+          "license": "MIT",
+          "redFlags": "None"
+        },
+        {
+          "name": "Agent Lightning",
+          "rating": "\u2b50\u2b50\u2b50\u2b50",
+          "category": "EVALUATE",
+          "description": "Microsoft Research RL framework for AI agents",
+          "businessValue": "Improves agent performance, requires ML expertise",
+          "githubUrl": "https://github.com/microsoft/agent-lightning",
+          "websiteUrl": "https://www.microsoft.com/en-us/research/project/agent-lightning/",
+          "stars": "8.7k",
+          "license": "MIT",
+          "redFlags": "Research-grade, requires RL expertise"
+        },
+        {
+          "name": "OpenCloud",
+          "rating": "\u2b50\u2b50\u2b50\u2b50",
+          "category": "EVALUATE",
+          "description": "Self-hosted file sharing platform",
+          "businessValue": "Data sovereignty, GDPR compliance",
+          "githubUrl": "https://github.com/opencloud-eu/opencloud",
+          "websiteUrl": "https://opencloud.eu/",
+          "stars": "4k",
+          "license": "Apache 2.0",
+          "redFlags": "236 open issues"
+        },
+        {
+          "name": "iMessage-Kit",
+          "rating": "\u2b50\u2b50\u2b50",
+          "category": "EVALUATE",
+          "description": "macOS iMessage automation SDK",
+          "businessValue": "iMessage integration for AI agents",
+          "githubUrl": "https://github.com/photon-hq/imessage-kit",
+          "websiteUrl": "",
+          "stars": "356",
+          "license": "MIT",
+          "redFlags": "License instability (SSPL\u2192MIT)"
+        },
+        {
+          "name": "Discordo",
+          "rating": "\u2b50\u2b50",
+          "category": "AVOID",
+          "description": "Terminal Discord client",
+          "businessValue": "NEGATIVE - Account ban risk",
+          "githubUrl": "https://github.com/ayn2op/discordo",
+          "websiteUrl": "",
+          "stars": "4k",
+          "license": "GPL-3.0",
+          "redFlags": "CRITICAL: Violates Discord ToS"
+        }
+      ]
+    }
+  ],
+  "productHunt": [
+    {
+      "date": "2025-11-20",
+      "tools": [
+        {
+          "name": "Paraflow",
+          "rating": "\u2b50\u2b50\u2b50\u2b50",
+          "category": "EVALUATE",
+          "description": "Canvas-based design product agent with AI PM and designer collaboration",
+          "businessValue": "Streamlines product spec creation, bridges ideas to code with structured PRDs and prototypes",
+          "productHuntUrl": "https://paraflow.com/?ref=producthunt",
+          "websiteUrl": "https://paraflow.com",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        },
+        {
+          "name": "YourGPT",
+          "rating": "\u2b50\u2b50\u2b50\u2b50",
+          "category": "EVALUATE",
+          "description": "AI-first platform for customer support, sales, and automation with intelligent agents",
+          "businessValue": "Elevates customer support and boosts sales with AI automation",
+          "productHuntUrl": "https://yourgpt.ai/?ref=producthunt",
+          "websiteUrl": "https://yourgpt.ai",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        },
+        {
+          "name": "Reindeer",
+          "rating": "\u2b50\u2b50\u2b50\u2b50\u00bd",
+          "category": "IMMEDIATE ADOPTION",
+          "description": "Cursor for Databases - understands schema, generates production SQL, autocompletes in IDE",
+          "businessValue": "Dramatically speeds up database work, reduces SQL errors, works within existing IDE workflow",
+          "productHuntUrl": "https://tryreindeer.com/?ref=producthunt",
+          "websiteUrl": "https://tryreindeer.com",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        },
+        {
+          "name": "Dimension",
+          "rating": "\u2b50\u2b50\u2b50",
+          "category": "EVALUATE",
+          "description": "Proactive multi-app assistant",
+          "businessValue": "Cross-app automation and assistance",
+          "productHuntUrl": "https://www.producthunt.com/products/dimension-2",
+          "websiteUrl": "",
+          "pricing": "Unknown",
+          "redFlags": "Limited information available"
+        },
+        {
+          "name": "Guideflow",
+          "rating": "\u2b50\u2b50\u2b50\u2b50",
+          "category": "EVALUATE",
+          "description": "AI demo platform for creating interactive product demonstrations",
+          "businessValue": "Improves sales and onboarding with AI-powered product demos",
+          "productHuntUrl": "https://www.guideflow.com/?ref=producthunt",
+          "websiteUrl": "https://www.guideflow.com",
+          "pricing": "Unknown",
+          "redFlags": "None"
+        }
+      ]
+    }
+  ],
+  "misc": []
+}

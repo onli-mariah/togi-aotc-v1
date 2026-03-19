@@ -1,0 +1,940 @@
+{
+  "currentStack": {
+    "AI Development & Code": [
+      {
+        "name": "Alex Inc",
+        "description": "XCode AI Coding Assistant",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "$20",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "26"
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "Mercury",
+            "nextPayment": "N/A"
+          }
+        ]
+      },
+      {
+        "name": "Builder.io",
+        "description": "Visual development platform",
+        "account": "onlisyn2025",
+        "cost": "$30",
+        "billingCycle": "Monthly",
+        "payment": "Disc -8992",
+        "nextPayment": "24",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Cursor",
+        "description": "Smart code editor and terminal",
+        "account": "onlisyn2025",
+        "cost": "$192",
+        "billingCycle": "Annual",
+        "payment": "MC -6175",
+        "nextPayment": "Mar 19, 2026",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Github",
+        "description": "Code repository",
+        "account": "onlisyn2025",
+        "cost": "$48",
+        "billingCycle": "Annual",
+        "payment": "MC -3626",
+        "nextPayment": "May 29, 2026",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Leap.New",
+        "description": "AI fullstack development",
+        "account": "onlisyn2025",
+        "cost": "$30-$300",
+        "billingCycle": "Unpaid",
+        "payment": "Disc -8992",
+        "nextPayment": "Dec 8, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Onlook",
+        "description": "Cursor for Designers",
+        "account": "onlisyn2025",
+        "cost": "$0",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Same.new",
+        "description": "Application prototyping + website cloning",
+        "account": "onlisyn2025",
+        "cost": "$10",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Warp",
+        "description": "Smart Terminal",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "$60",
+            "billingCycle": "Monthly",
+            "payment": "CapOne -5829",
+            "nextPayment": "14"
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "CapOne -5829",
+            "nextPayment": ""
+          }
+        ]
+      }
+    ],
+    "AI Image & Video Generation": [
+      {
+        "name": "Arcanalabs.ai",
+        "description": "AI Production Studio - Photo + Video Gen",
+        "account": "mylogin",
+        "cost": "$29",
+        "billingCycle": "Unpaid",
+        "payment": "Disc -8992",
+        "nextPayment": "Oct 13, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Captions.ai",
+        "description": "Talking video generation",
+        "account": "mylogin",
+        "cost": "PYG",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "DZine",
+        "description": "AI Image + Design",
+        "account": "onlisyn2025",
+        "cost": "$60",
+        "billingCycle": "Unpaid",
+        "payment": "CashApp",
+        "nextPayment": "10/14/2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Diffus",
+        "description": "Diffusion image and video generation",
+        "account": "mylogin",
+        "cost": "PYG",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "12/08/2025",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Fal AI",
+        "description": "GenAI API's",
+        "account": "onlisyn2025",
+        "cost": "PYG",
+        "billingCycle": "Credits",
+        "payment": "",
+        "nextPayment": "N/A",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Hailou AI",
+        "description": "Video gen",
+        "account": "onlisyn2025",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Hedra",
+        "description": "Image Gen - Fighter/Uniform",
+        "account": "onlisyn2025",
+        "cost": "PYG",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Luma",
+        "description": "Video Generator",
+        "account": "onlisyn2025",
+        "cost": "$30",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "Oct 30, 2025",
+        "notes": "",
+        "isExpiration": true
+      }
+    ],
+    "AI Voice & Audio": [
+      {
+        "name": "ElevenLabs",
+        "description": "AI Voice Generation",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "$22",
+            "billingCycle": "Monthly",
+            "payment": "Disc -8992",
+            "nextPayment": "11"
+          },
+          {
+            "account": "mylogin",
+            "cost": "$5",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "24"
+          }
+        ]
+      },
+      {
+        "name": "Hume AI",
+        "description": "Realistic Voice AI",
+        "account": "onlisyn2025",
+        "cost": "$14",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "Oct 12, 2025",
+        "notes": "",
+        "isExpiration": true
+      }
+    ],
+    "Cloud Infrastructure & Hosting": [
+      {
+        "name": "Cloudflare",
+        "description": "",
+        "account": "mariah@theonlicorp",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Supabase",
+        "description": "Vector storage",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "Github",
+            "cost": "$25",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "8"
+          },
+          {
+            "account": "Github",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "",
+            "nextPayment": "Oct 08, 2025"
+          }
+        ]
+      }
+    ],
+    "Design & Creative Tools": [
+      {
+        "name": "Spline",
+        "description": "3D Image Rendering",
+        "account": "mariah@onli.one",
+        "cost": "$15",
+        "billingCycle": "Unpaid",
+        "payment": "CapOne",
+        "nextPayment": "Nov 02, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Webflow",
+        "description": "Visual website builder",
+        "account": "dhrylanton@gmail.com",
+        "cost": "$88 + $24",
+        "billingCycle": "Unpaid",
+        "payment": "Disc -8992",
+        "nextPayment": "Nov 19, 2025",
+        "notes": "",
+        "isExpiration": true
+      }
+    ],
+    "Documentation & Productivity": [
+      {
+        "name": "Chroniclehq.com",
+        "description": "Smart presentation creator",
+        "account": "onlisyn@icloud",
+        "cost": "$0",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "Oct 26, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Craftdocs",
+        "description": "Document creation and organization",
+        "notes": "Onli Corp",
+        "subscriptions": [
+          {
+            "account": "mariah@theonlicorp",
+            "cost": "$180",
+            "billingCycle": "Annual",
+            "payment": "",
+            "nextPayment": "Jul 19, 2026"
+          },
+          {
+            "account": "doc@onli",
+            "cost": "$0",
+            "billingCycle": "Unpaid",
+            "payment": "",
+            "nextPayment": "",
+            "isExpiration": true
+          },
+          {
+            "account": "doc@theonli",
+            "cost": "$0",
+            "billingCycle": "Unpaid",
+            "payment": "",
+            "nextPayment": "",
+            "isExpiration": true
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "$60",
+            "billingCycle": "Unpaid",
+            "payment": "",
+            "nextPayment": "Oct 6, 2025",
+            "isExpiration": true
+          }
+        ]
+      }
+    ],
+    "LLM & AI Agents": [
+      {
+        "name": "Abacus.ai",
+        "description": "Multi LLM",
+        "account": "onlisyn2025",
+        "cost": "$10",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "Oct 19, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Anthropic",
+        "description": "LLM",
+        "notes": "PRO Plan",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "$200",
+            "billingCycle": "Annual",
+            "payment": "Link by Stripe",
+            "nextPayment": "Dec 3, 2025"
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "$100",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "13"
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "MC -6175",
+            "nextPayment": ""
+          }
+        ]
+      },
+      {
+        "name": "OpenAI",
+        "description": "LLM",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "$20",
+            "billingCycle": "Monthly",
+            "payment": "Apple Sub",
+            "nextPayment": "9"
+          },
+          {
+            "account": "onlisyn@icloud",
+            "cost": "$200",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "28"
+          },
+          {
+            "account": "mylogin",
+            "cost": "$20",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "31"
+          },
+          {
+            "account": "naturalspirituality@gmail",
+            "cost": "$20",
+            "billingCycle": "Unpaid",
+            "payment": "Disc -8992",
+            "nextPayment": "Oct 30, 2025",
+            "isExpiration": true
+          }
+        ]
+      }
+    ],
+    "Other": [
+      {
+        "name": "Adobe",
+        "description": "",
+        "account": "doc@musictray",
+        "cost": "$60",
+        "billingCycle": "Monthly",
+        "payment": "Disc -8992",
+        "nextPayment": "14",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Digital Ocean",
+        "description": "Cloud infrastructure",
+        "account": "Github",
+        "cost": "PYG",
+        "billingCycle": "Credits",
+        "payment": "MC -6175",
+        "nextPayment": "",
+        "notes": "$200 credit",
+        "isExpiration": false
+      },
+      {
+        "name": "Fly.io",
+        "description": "Application deployments - public cloud",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "onlisyn2025",
+            "cost": "$20",
+            "billingCycle": "Monthly",
+            "payment": "MC -6175",
+            "nextPayment": "12"
+          },
+          {
+            "account": "onlisyn2025",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "MC -6175",
+            "nextPayment": "Nov 12, 2025"
+          }
+        ]
+      },
+      {
+        "name": "Genspark AI",
+        "description": "Super Agent",
+        "account": "onlisyn2025",
+        "cost": "$240",
+        "billingCycle": "Unpaid",
+        "payment": "CapOne -5829",
+        "nextPayment": "June 26, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Google",
+        "description": "GoogleOne Ultra",
+        "account": "onlisyn2025",
+        "cost": "$250",
+        "billingCycle": "Monthly",
+        "payment": "MC -6175",
+        "nextPayment": "1",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Heygen Technology",
+        "description": "AI Spokesperson Video Gen",
+        "account": "onlisyn2025",
+        "cost": "$29",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "Oct 05, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Higgsfield",
+        "description": "Image/Video Gen",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "mylogin",
+            "cost": "$108",
+            "billingCycle": "Annual",
+            "payment": "MC -6175",
+            "nextPayment": "April 29, 2026"
+          },
+          {
+            "account": "mylogin",
+            "cost": "PYG",
+            "billingCycle": "Credits",
+            "payment": "MC -6175",
+            "nextPayment": "April 29, 2026"
+          }
+        ]
+      },
+      {
+        "name": "Insmind",
+        "description": "AI Photo Editing",
+        "account": "mylogin",
+        "cost": "PYG",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Krea.ai",
+        "description": "Image/Video Gen - Illustrated Headshots",
+        "account": "onlisyn2025",
+        "cost": "$35",
+        "billingCycle": "Monthly",
+        "payment": "MC -6175",
+        "nextPayment": "7",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "LTX Studio",
+        "description": "Define Motion with Keyframes",
+        "account": "mylogin",
+        "cost": "$336",
+        "billingCycle": "Annual",
+        "payment": "UNKNOWN",
+        "nextPayment": "May 18, 2026",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Limitless",
+        "description": "AI pendant transcriber",
+        "account": "onlisyn2025",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Loveart AI",
+        "description": "Branding image gen",
+        "account": "onlisyn2025",
+        "cost": "$180",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "July 25, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "MagicPath",
+        "description": "AI-powered design tool",
+        "account": "onlisyn2025",
+        "cost": "$20",
+        "billingCycle": "Monthly",
+        "payment": "CapOne -5829",
+        "nextPayment": "15",
+        "notes": "Asked to keep - delete?",
+        "isExpiration": false
+      },
+      {
+        "name": "Magnific Ai",
+        "description": "Image scaler and enhancer",
+        "account": "mylogin",
+        "cost": "$40",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "Oct 12, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Mimic PC",
+        "description": "Open source AI generation platform",
+        "account": "mylogin",
+        "cost": "$124",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "April 16, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Mirage",
+        "description": "",
+        "account": "",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "Not sure which provider is correct",
+        "isExpiration": true
+      },
+      {
+        "name": "Modelo",
+        "description": "3D Model viewier and editor",
+        "account": "mylogin",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "Oct 16, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "NIM AI",
+        "description": "Image generator",
+        "account": "onlisyn2025",
+        "cost": "$240",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "March 3, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Nextdiffusion AI",
+        "description": "TOPLESS image generator",
+        "account": "mylogin",
+        "cost": "$150",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "April 27, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Optisigns",
+        "description": "Digital signage",
+        "account": "mylogin",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "Login unavailable",
+        "isExpiration": true
+      },
+      {
+        "name": "PAID - Annual",
+        "description": "",
+        "account": "",
+        "cost": "",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "PAID - Monthly",
+        "description": "",
+        "account": "",
+        "cost": "",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "PYG CREDITS",
+        "description": "",
+        "account": "",
+        "cost": "",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "Paid Access Expires",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Patreon",
+        "description": "Content creator marketplace",
+        "account": "onlisyn2025",
+        "cost": "$24",
+        "billingCycle": "Unpaid",
+        "payment": "Apple Pay -3943",
+        "nextPayment": "Aug 17, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Perplexity AI",
+        "description": "LLM/Browser",
+        "account": "mylogin",
+        "cost": "$200",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "July 05, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Pixelbuddha.net",
+        "description": "Graphic design resources",
+        "account": "mylogin",
+        "cost": "$120",
+        "billingCycle": "Annual",
+        "payment": "",
+        "nextPayment": "July 10, 2026",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Pixflow",
+        "description": "Motion design, animation + content creation",
+        "account": "mylogin",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Prone AI",
+        "description": "Image + video gen",
+        "account": "onlisyn2025",
+        "cost": "$295",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "April 17, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Recraft",
+        "description": "AI for designers - image gen",
+        "account": "onlisyn2025",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Runway AI",
+        "description": "Video generation",
+        "account": "onlisyn2025",
+        "cost": "$144",
+        "billingCycle": "Unpaid",
+        "payment": "CapOne -5829",
+        "nextPayment": "Oct 01, 2026",
+        "notes": "Recently used + purchased",
+        "isExpiration": true
+      },
+      {
+        "name": "Shakker",
+        "description": "Image and Video gen (uncensored)",
+        "account": "mylogin",
+        "cost": "$288",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "March 07, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Speechelo",
+        "description": "text-to-speech",
+        "account": "onlisyn2025",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "One-time purchase?",
+        "isExpiration": true
+      },
+      {
+        "name": "Storyd AI",
+        "description": "Presenations with templates",
+        "account": "Unkown",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "Cannot find active account",
+        "isExpiration": true
+      },
+      {
+        "name": "Superultra",
+        "description": "Whisper",
+        "account": "onlisyn2025",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "No payment info available",
+        "isExpiration": true
+      },
+      {
+        "name": "TOTAL",
+        "description": "",
+        "notes": "",
+        "subscriptions": [
+          {
+            "account": "",
+            "cost": "$1,324",
+            "billingCycle": "",
+            "payment": "",
+            "nextPayment": ""
+          },
+          {
+            "account": "",
+            "cost": "$907",
+            "billingCycle": "",
+            "payment": "",
+            "nextPayment": ""
+          }
+        ]
+      },
+      {
+        "name": "TopazLabs",
+        "description": "Video + Image gen",
+        "account": "onlisyn2025",
+        "cost": "$50",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "Aug 13, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "UNKNOWN",
+        "description": "",
+        "account": "",
+        "cost": "",
+        "billingCycle": "Unpaid",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "UX Pilot AI",
+        "description": "UX/UI Design",
+        "account": "mylogin",
+        "cost": "$29",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "August 08, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "VectorShift",
+        "description": "API",
+        "account": "onlisyn2025",
+        "cost": "$240",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "Feb 21, 2026",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Venice",
+        "description": "LLM Agent",
+        "account": "mylogin",
+        "cost": "$18",
+        "billingCycle": "Unpaid",
+        "payment": "MC -6175",
+        "nextPayment": "Oct 16, 2025",
+        "notes": "",
+        "isExpiration": true
+      },
+      {
+        "name": "Vercel - Domains",
+        "description": "Domain manager",
+        "account": "onlisyn@icloud",
+        "cost": "$140",
+        "billingCycle": "2-Year",
+        "payment": "Disc -8992",
+        "nextPayment": "May 28, 2027",
+        "notes": "naturalspirituality.ai",
+        "isExpiration": false
+      },
+      {
+        "name": "Vercel - Neon",
+        "description": "Cloud appliaction development",
+        "account": "onlisyn@icloud",
+        "cost": "$20",
+        "billingCycle": "Monthly",
+        "payment": "Disc -8992",
+        "nextPayment": "6",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Vercel - Upstash",
+        "description": "Cloud appliaction development",
+        "account": "onlisyn@icloud",
+        "cost": "PYG",
+        "billingCycle": "Credits",
+        "payment": "Disc -8992",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": false
+      },
+      {
+        "name": "Wavespeed",
+        "description": "Video + image gen",
+        "account": "onlisyn2025",
+        "cost": "PYG",
+        "billingCycle": "",
+        "payment": "",
+        "nextPayment": "",
+        "notes": "",
+        "isExpiration": false
+      }
+    ]
+  }
+}
